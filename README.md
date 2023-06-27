@@ -1,7 +1,7 @@
 <body>
   <div align="center">
-    <img src="">
-    <h1>name</h1>
+    <img src="https://github.com/yuki-shi/revo_helper/blob/main/assets/corsola.gif" width="20%">
+    <h1>Revo Helper ~ A Pokémon Revolution Online idk what</h1>
     <p>description</p>
   </div>
   <h2>:robot: use cases</h2>
