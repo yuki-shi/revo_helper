@@ -13,8 +13,8 @@ if __name__ == '__main__':
 
     # For each URL
     for url in tqdm(df['wiki_url']):
-        response = requests.get(url, 'html.parser')
-        soup = BeautifulSoup(response.text)
+        response = requests.get(url)
+        soup = BeautifulSoup(response.text, 'html.parser')
 
         pkm_dict = {}
 
