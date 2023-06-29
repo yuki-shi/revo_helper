@@ -1,0 +1,820 @@
+name,evolution_info,hp,atk,def,sp_atk,sp_def,spd,catch_rate,obtainability,type1,type2,ability1,ability2,ability3
+Abra,"It evolves into Kadabra as early as level 16; thereafter, it will evolve into Alakazam when any traded transaction involving it is executed.",25,20,15,105,55,90,26.14%,"Wild, NPCs",Psychic,,Synchronize, Inner Focus, Magic Guard
+Aerodactyl,,80,105,65,60,75,130,5.88%,"From diggable patches and Excavation Sites, NPCs",Rock, Flying,Rock Head, Pressure, Unnerve
+Alakazam,"Having evolved from Kadabra when involved in any trade transaction, it is the final evolutionary stage of Abra. 
+It can Mega Evolve into Mega Alakazam via exposure of the Alakazite.",55,50,45,135,85,120,6.54%,None,Psychic,,Synchronize, Inner Focus, Magic Guard
+Arbok,"It evolves from Ekans as early as level 22, thereby reaching the final stage of its evolutionary line.",60,85,69,65,79,80,11.76%,"Wild, Discontinued Methods",Poison,,Intimidate, Shed Skin, Unnerve
+Arcanine,"It is the only evolutionary outlet of Growlithe, having evolved from it when contactually exposed to a Fire Stone.",90,110,80,100,80,95,9.8%,None,Fire,,Intimidate, Flash Fire, Justified
+Articuno,,90,85,100,95,125,85,0.39%,None,Ice, Flying,Pressure, Snow Cloak,
+Beedrill,"As a part of one of the earliest-evolvable level-designated evolutionary lines, Beedrill evolves from Kakuna at level 7, thereby reaching the final stage of Weedle's evolutionary line.",65,80,40,45,80,75,5.88%,"Wild, Headbutt Trees",Bug, Poison,Swarm, Sniper,
+Bellsprout,"It evolves into Weepinbell as early as level 21; thereafter, it will evolve into its final evolutionary stage in Victreebel when contactually exposed to a Leaf Stone.",50,75,35,70,30,40,33.33%,"Wild, NPCs",Grass, Poison,Chlorophyll, Gluttony,
+Blastoise,"Blastoise is a Water-type Pokémon. Having evolved from Wartortle at level 36, it is the final evolutionary stage of Squirtle.",79,83,100,85,105,78,31.24%,None,Water,,Torrent, Rain Dish,
+Bulbasaur,"This also generates a cross-contrasted leveling chart for Bulbasaur's evolutions in Ivysaur and Venusaur, thereby outputting how much more experience they would need to level up to reach the same level as Bulbasaur; this is helpful for those who want to know the exactitudes of how much experience they'll save by postponing evolutions, as evolved forms tend to require more experience to level up.",45,49,49,65,65,45,5.88%,"Land, Headbutt Trees, NPCs",Grass, Poison,Overgrow, Chlorophyll,
+Butterfree,"As a part of one of the earliest-evolvable level-designated evolutionary lines, Butterfree evolves from Metapod at level 7, thereby reaching the final stage of Caterpie's evolutionary line.",60,45,50,80,80,70,5.88%,"Wild, Headbutt Trees",Bug, Flying,Compound Eyes, Tinted Lens,
+Caterpie,"This is a tabulated leveling chart of the amount of experience required to advance per level. It also comparatively generates the amount of experience required for its evolved forms, thereby allowing to handily cross-compare how much more experience its evolutions would need to reach the same level.",45,30,35,20,20,45,33.33%,"Wild, Headbutt Trees, NPCs",Bug,,Shield Dust, Run Away,
+Chansey,"Having evolved from Happiny when leveled up while holding an Oval Stone during the day-time, it will evolve into its final evolutionary outlet in Blissey when leveled up with maximal happiness.",250,5,5,35,105,50,3.92%,Wild,Normal,,Natural Cure, Serene Grace, Healer
+Charizard,"Charizard is a Fire- and Flying-type Pokémon. Having evolved from Charmeleon at level 36, it is the final evolutionary stage of Charmander.",78,84,78,109,85,100,5.88%,None,Fire, Flying,Blaze, Solar Power,
+Charmander,"This also generates a cross-contrasted leveling chart for Charmander's evolutions in Charmeleon and Charizard, thereby outputting how much more experience they would need to level up to reach the same level as Charmander; this is helpful for those who want to know the exactitudes of how much experience they'll save by postponing evolutions, as evolved forms tend to require more experience to level up.",39,52,43,60,50,65,5.88%,"Wild, Headbutt Trees, NPCs",Fire,,Blaze, Solar Power,
+Charmeleon,"Charmeleon is a Fire-type Pokémon. Having evolved from Charmander at level 16, it evolves into Charizard at level 36.",58,64,58,80,65,80,5.88%,None,Fire,,Blaze, Solar Power,
+Clefable,"Having evolved from Clefairy when contactually exposed to a Moon Stone, Clefable is the final stage of Cleffa's evolutionary line.",95,70,73,85,90,60,3.27%,Wild,Fairy,,Cute Charm, Magic Guard, Unaware
+Clefairy,"Having evolved from Cleffa when leveled up with maximal happiness, it evolves into Clefable when contactually exposed to a Moon Stone, thereby reaching the final stage of its evolutionary line.",70,45,48,60,65,35,19.61%,Wild,Fairy,,Cute Charm, Magic Guard, Friend Guard
+Cloyster,"It is the only evolutionary outlet of Shellder, having evolved from it when contactually exposed to a Water Stone.",50,95,180,85,45,70,7.84%,None,Water, Ice,Shell Armor, Skill Link, Overcoat
+Cubone,It evolves into its only evolutionary outlet in Marowak as early as level 28.,50,50,95,40,50,35,24.84%,"Wild, Excavation Sites",Ground,,Rock Head, Lightning Rod, Battle Armor
+Dewgong,"It is the only evolutionary outlet of Seel, having evolved from it as early as level 34.",90,70,80,70,95,70,9.8%,Wild,Water, Ice,Thick Fat, Hydration, Ice Body
+Diglett,"Alolan Diglett is a Ground and Steel-type Pokémon. 
+It evolves into Alolan Dugtrio starting at level 26.",10,55,25,35,45,95,33.33%,None,Ground,,Sand Veil, Arena Trap, Sand Force
+Ditto,,48,48,48,48,48,48,4.58%,Wild,Normal,,Limber, Imposter,
+Dodrio,It evolves from Doduo as early as level 31.,60,110,70,60,60,100,5.88%,Wild,Normal, Flying,Run Away, Early Bird, Tangled Feet
+Doduo,It evolves into Dodrio as early as level 31.,35,85,45,35,35,75,24.84%,Wild,Normal, Flying,Run Away, Early Bird, Tangled Feet
+Dragonair,"Dragonair is a Dragon-type Pokémon. Having evolved from Dratini at level 30, it evolves into Dragonite at level 55.",61,84,65,70,70,70,5.88%,"Land, Surfing",Dragon,,Shed Skin, Marvel Scale,
+Dragonite,"Dragonite is a Dragon- and Flying-type Pokémon. Having evolved from Dragonair at level 55, it is the final evolutionary stage of Dratini.",91,134,95,100,100,80,5.88%,None,Dragon, Flying,Inner Focus, Multiscale,
+Dratini,"This also generates a cross-contrasted leveling chart for Dratini's evolutions in Dragonair and Dragonite, thereby outputting how much more experience they would need to level up to reach the same level as Dragonair; this is helpful for those who want to know the exactitudes of how much experience they'll save by postponing evolutions, as evolved forms tend to require more experience to level up.",41,64,45,50,50,50,5.88%,"Land, Water, NPCs",Dragon,,Shed Skin, Marvel Scale,
+Drowzee,It evolves into its only evolutionary outlet in Hypno as early as level 26.,60,48,45,42,90,43,24.84%,Wild,Psychic,,Insomnia, Forewarn, Inner Focus
+Dugtrio,"Alolan Dugtrio is a Ground and Steel-type Pokémon. 
+It evolves from Alolan Diglett starting at level 26, thereby reaching the final stage of its evolutionary line.",35,100,50,50,70,120,6.54%,None,Ground,,Sand Veil, Arena Trap, Sand Force
+Eevee,,55,55,50,45,65,55,5.88%,None,Normal,,Run Away, Adaptability, Anticipation
+Ekans,It evolves into Arbok as early as level 22.,35,60,44,40,54,55,33.33%,"Wild, Discontinued Methods",Poison,,Intimidate, Shed Skin, Unnerve
+Electabuzz,Electabuzz is as Electric-type Pokémon. It evolves from Elekid starting at level 30 and evolves into Electivire when traded holding an Electirizer.,65,83,57,95,85,105,5.88%,Wild,Electric,,Static, Vital Spirit,
+Electrode,"It is the final evolutionary outlet of Voltorb, having evolved from it as early as level 30.",60,50,70,80,80,140,7.84%,Wild,Electric,,Soundproof, Static, Aftermath
+Exeggcute,It evolves into its only evolutionary outlet in Exeggutor once it is contactually exposed to a Leaf Stone.,60,40,80,60,45,40,11.76%,Wild,Grass, Psychic,Chlorophyll, Harvest,
+Exeggutor,"Exeggutor is a Grass-type Pokémon. 
+It is the only evolutionary outlet of Exeggcute, having evolved from it when contractually exposed to a Leaf Stone.",95,95,85,125,65,55,5.88%,None,Grass, Psychic,Chlorophyll, Harvest,
+Farfetch'd,,52,65,55,58,62,50,5.88%,"Wild, Headbutt trees, NPCs",Normal, Flying,Keen Eye, Inner Focus, Defiant
+Fearow,"It evolves from Spearow as early as level 20, thereby reaching the final stage of its evolutionary line.",65,90,65,61,61,100,11.76%,Wild,Normal, Flying,Keen Eye, Sniper,
+Flareon,Flareon is a Fire-type Pokémon and one of eight possible evolution based on Eevee. Having evolved from Eevee with the use of a Fire Stone at any level.,65,130,60,95,110,65,5.88%,"Wild, Miscellaneously",Fire,,Flash Fire, Guts,
+Gastly,"It evolves into Haunter as early as level 25; thereafter, it will evolve into Gengar when consummated as a part of any trade transaction.",30,35,30,100,35,80,24.84%,"Wild, Headbutt trees",Ghost, Poison,Levitate,,
+Gengar,"Having evolved from Haunter when consummated in any trade transaction, it is the final stage of Gastly's evolutionary line. 
+It can Mega Evolve into Mega Gengar via exposure of the Gengarite.",60,65,60,130,75,110,5.88%,Wild,Ghost, Poison,Cursed Body,,
+Geodude,"Alolan Geodude is a Rock and Electric-type Pokémon. 
+It evolves into Alolan Graveler starting at level 25, which evolves into Alolan Golem when traded.",40,80,100,30,30,20,33.33%,None,Rock, Ground,Rock Head, Sturdy, Sand Veil
+Gloom,"Having evolved from Oddish as early as level 21, it will either evolve into Vileplume (Leaf Stone) or Bellossom (Sun Stone).",60,65,70,85,75,40,15.69%,Wild,Grass, Poison,Chlorophyll, Stench,
+Golbat,"Having evolved from Zubat as early as level 22, it evolves into Crobat when leveled up with maximal happiness, thereby reaching the final stage of its evolutionary line.",75,80,70,65,75,90,11.76%,"Wild, Headbutt trees",Poison, Flying,Inner Focus, Infiltrator,
+Goldeen,It evolves into its only evolutionary outlet in Seaking as early as level 33.,45,67,60,35,50,63,29.41%,Wild,Water,,Swift Swim, Water Veil, Lightning Rod
+Golduck,"It is the only evolutionary outlet of Psyduck, having evolved from it as early as level 33.",80,82,78,95,80,85,9.8%,Wild,Water,,Damp, Cloud Nine, Swift Swim
+Golem,"Alolan Golem is a Rock and Electric-type Pokémon. 
+It evolves from Alolan Graveler when traded. It is the final form of Alolan Geodude.",80,120,130,55,65,45,5.88%,None,Rock, Ground,Rock Head, Sturdy, Sand Veil
+Graveler,"Alolan Graveler is a Rock and Electric-type Pokémon. 
+It evolves from Alolan Geodude starting at level 25, and evolves into Alolan Golem when traded.",55,95,115,45,45,35,15.69%,None,Rock, Ground,Rock Head, Sturdy, Sand Veil
+Grimer,"Alolan Grimer is a Poison and Dark-type Pokémon. 
+It evolves into Alolan Muk starting at level 38.",80,80,50,40,50,25,24.84%,None,Poison,,Stench, Sticky Hold, Poison Touch
+Growlithe,It evolves into its only evolutionary outlet in Arcanine when contactually exposed to a Fire Stone.,55,70,45,70,50,60,24.84%,"Wild, NPCs, Abandoned Pokéballs",Fire,,Intimidate, Flash Fire, Justified
+Gyarados,It evolves From Magikarp and into its only evolutionary outlet in Gyarados as early as level 20. It can  Mega Evolve into Mega Gyarados via the exposure of Gyaradosite.,95,125,79,60,100,81,5.88%,Wild,Water, Flying,Intimidate, Moxie,
+Haunter,"Having evolved from Gastly as early as level 25, it will evolve into Gengar when consummated as a part of any trade transaction, thereby reaching the final stage of its evolutionary line.",45,50,45,115,55,95,11.76%,Wild,Ghost, Poison,Levitate,,
+Hitmonchan,"It evolves from Tyrogue as early as level 20 when the total Defense is higher than its total Attack, otherwise it evolves into Hitmonlee when the Attack is higher than its Defense or into Hitmontop when both stats are equal. Hitmonchan is with all other possible evolutions of Tyrogue one of the final forms.",50,105,79,35,110,76,5.88%,"Wild, Miscellaneous",Fighting,,Keen Eye, Iron Fist, Inner Focus
+Hitmonlee,It evolves from Tyrogue as early as level 20 when the total Attack is higher than its total Defense otherwise it evolves into Hitmonchan when the Defense is higher than its Attack or into Hitmontop when both stats are equal. Hitmonlee is with all other possible evolutions of Tyrogue one of the final forms.,50,120,53,35,110,87,5.88%,"Wild, Miscellaneous",Fighting,,Limber, Reckless, Unburden
+Horsea,"It evolves into Seadra as early as level 32; thereafter, it will evolve into Kingdra when consummated in any trade while holding a Dragon Scale.",30,40,70,70,25,60,29.41%,"Wild, Miscellaneous",Water,,Swift Swim, Sniper, Damp
+Hypno,"It is the only evolutionary outlet of Drowzee, having evolved from it as early as level 26.",85,73,70,73,115,63,9.8%,Wild,Psychic,,Insomnia, Forewarn, Inner Focus
+Ivysaur,"Ivysaur is a Grass- and Poison-type Pokémon. Having evolved from Bulbasaur at level 16, it evolves into Venusaur at level 32.",60,62,63,80,80,60,5.88%,None,Grass, Poison,Overgrow, Chlorophyll,
+Jigglypuff,"Having evolved from Igglybuff when leveled up with maximal happiness, it evolves into Wigglytuff when contactually exposed to a Moon Stone, thereby reaching the final stage of its evolutionary line.",115,45,20,45,25,20,22.22%,Wild,Normal, Fairy,Cute Charm, Competitive, Friend Guard
+Jolteon,Jolteon is a Electric-type Pokémon and one of eight possible evolution based on Eevee. Having evolved from Eevee with the use of a Thunder Stone at any level.,65,65,60,110,95,130,5.88%,Wild,Electric,,Volt Absorb, Quick Feet,
+Jynx,It evolves from Smoochum at level 30.,65,50,35,115,95,95,5.88%,"Wild, Headbutt Trees",Ice, Psychic,Oblivious, Forewarn, Dry Skin
+Kabuto,It evolves into Kabutops as early as level 40.,30,80,90,55,45,55,5.88%,None,Rock, Water,Swift Swim, Battle Armor, Weak Armor
+Kabutops,It evolves from Kabuto as early as level 40.,60,115,105,65,70,80,5.88%,None,Rock, Water,Swift Swim, Battle Armor, Weak Armor
+Kadabra,"Having evolved from Abra as early as level 16, it will evolve into Alakazam when involved in any trade transaction, thereby reaching the final stage of Abra's evolutionary line.",40,35,30,120,70,105,13.07%,Wild,Psychic,,Synchronize, Inner Focus, Magic Guard
+Kakuna,"As a part of one of the earliest-evolvable level-designated evolutionary lines, Kakuna evolves from Weedle at level 7; thereafter, it evolves into Beedrill at level 10.",45,25,50,25,25,35,15.69%,"Wild, Headbutt Trees",Bug, Poison,Shed Skin,,
+Kangaskhan,,105,95,80,40,80,90,5.88%,Wild,Normal,,Early Bird, Scrappy, Inner Focus
+Kingler,"It is the only evolutionary outlet of Krabby, having evolved from it as early as level 28.",55,130,115,50,50,75,7.84%,Wild,Water,,Hyper Cutter, Shell Armor, Sheer Force
+Koffing,It evolves into its only evolutionary outlet in Weezing as early as level 35.,40,65,95,60,45,35,24.84%,Wild,Poison,,Levitate,,
+Krabby,It evolves into its only evolutionary outlet in Kingler as early as level 28.,30,105,90,25,25,50,29.41%,"Wild, NPCs",Water,,Hyper Cutter, Shell Armor, Sheer Force
+Lapras,,130,85,80,85,95,60,5.88%,Surfing,Water, Ice,Water Absorb, Shell Armor, Hydration
+Lickitung,"It evolves into Lickilicky when leveled up with Rollout in its move-pool possession. It learns the move-technique at level 33; however, it will evolve whenever it is leveled up with the move, irrespective of its method of acquisition.",90,55,75,60,75,30,5.88%,"Wild, Miscellaneous",Normal,,Own Tempo, Oblivious, Cloud Nine
+Machamp,"Having evolved from Machoke when involved in any trade transaction, it is the final stage of Machop's evolutionary line.",90,130,80,65,85,55,5.88%,"Wild, Trading",Fighting,,Guts, No Guard, Steadfast
+Machoke,"This is a tabulated leveling chart of the amount of experience Machoke requires to advance per level, as well as the experience-points per level between its evolutions; this helps you cross-compare how much experience you would save if you were to delay its evolution to a later level, since evolved forms typically require heftily more experience to level up.",80,100,70,50,60,45,11.76%,Wild,Fighting,,Guts, No Guard, Steadfast
+Machop,"This is a tabulated leveling chart of the amount of experience Machop requires to advance per level, as well as the experience-points per level between its evolutions; this helps you cross-compare how much experience you would save if you were to delay its evolution to a later level, since evolved forms typically require heftily more experience to level up.",70,80,50,35,35,35,23.53%,"Wild, Diggable Patches, NPCs",Fighting,,Guts, No Guard, Steadfast
+Magikarp,It evolves into its only evolutionary outlet in Gyarados as early as level 20.,20,10,55,15,20,80,33.33%,Wild,Water,,Swift Swim, Rattled,
+Magmar,"Having evolved from Magby as early as level 30, it will evolve into Magmortar when involved in any trade transaction while holding a Magmarizer, thereby reaching the final stage of its evolutionary line.",65,95,57,100,85,93,5.88%,Wild,Fire,,Flame Body, Vital Spirit,
+Magnemite,"It evolves into Magneton as early as level 30; thereafter, it will evolve into Magnezone when leveled up within the Power Plant, Mt. Coronet, or New Mauville.",25,35,70,95,55,45,24.84%,"Wild, NPCs",Electric, Steel,Magnet Pull, Sturdy, Analytic
+Magneton,"Having evolved from Magnemite as early as level 30, it will evolve into Magnezone when leveled up within the vicinity of the Power Plant, Mt. Coronet, or New Mauville, thereby reaching the final stage of its evolutionary line.",50,60,95,120,70,70,7.84%,Wild,Electric, Steel,Magnet Pull, Sturdy, Analytic
+Mankey,It evolves into its only evolutionary outlet in Primeape as early as level 28.,40,80,35,35,45,70,24.84%,Wild,Fighting,,Vital Spirit, Anger Point, Defiant
+Marowak,"Marowak is a Ground-type Pokémon. 
+It is the only evolutionary outlet of Cubone, having evolved from it as early as level 28.",60,80,110,50,80,45,9.8%,None,Ground,,Rock Head, Lightning Rod, Battle Armor
+Meowth,"Alolan Meowth is a Dark-type Pokémon. 
+It evolves into Alolan Persian when leveled up with high happiness.",40,45,35,40,40,90,33.33%,None,Normal,,Pickup, Technician, Unnerve
+Metapod,"This is a tabulated leveling chart of the amount of experience required to advance per level. It also comparatively generates the amount of experience required for its evolved forms, thereby allowing to handily cross-compare how much more experience its evolutions would need to reach the same level.",50,20,55,25,25,30,15.69%,"Wild, Headbutt Trees",Bug,,Shed Skin,,
+Mew,,100,100,100,100,100,100,5.88%,None,Psychic,,Synchronize,,
+Mewtwo,,106,110,90,154,90,130,0.39%,None,Psychic,,Pressure, Unnerve,
+Moltres,,90,100,90,125,85,90,0.39%,None,Fire, Flying,Pressure, Flame Body,
+Mr. Mime,"Mr. Mime is a Psychic- and Fairy-type Pokémon. It evolves from Mime Jr. at level 15 after learning the move Mimic, it is the final evolutionary stage.",40,45,65,100,120,90,5.88%,Wild,Psychic, Fairy,Soundproof, Filter, Technician
+Muk,"Alolan Muk is a Poison and Dark-type Pokémon. 
+It is the only evolutionary outlet of Alolan Grimer, having evolved from it as early as level 38.",105,105,75,65,100,50,9.8%,None,Poison,,Stench, Sticky Hold, Poison Touch
+Nidoking,"Having evolved from Nidorino when contactually exposed to a Moon Stone, Nidoking is the final stage of Nidoran Male's evolutionary line.",81,92,77,85,75,85,5.88%,Wild,Poison, Ground,Poison Point, Rivalry, Sheer Force
+Nidoqueen,"Having evolved from Nidorina when contactually exposed to a Moon Stone, Nidoqueen is the final stage of Nidoran Female's evolutionary line.",90,82,87,75,85,76,5.88%,None,Poison, Ground,Poison Point, Rivalry, Sheer Force
+Nidoran Female,"It evolves into Nidorina as early as level 16; thereafter, it will evolve into its final evolutionary stage in Nidoqueen when contactually exposed to a Moon Stone.",55,47,52,40,40,41,30.72%,"Wild, NPCs",Poison,,Poison Point, Rivalry, Hustle
+Nidoran Male,"It evolves into Nidorino as early as level 16; thereafter, it will evolve into its final evolutionary stage in Nidoking when contactually exposed to a Moon Stone.",46,57,40,40,40,50,30.72%,"Wild, NPCs",Poison,,Poison Point, Rivalry, Hustle
+Nidorina,"Having evolved from Nidoran Female as early as level 16, it evolves into Nidoqueen when contactually exposed to a Moon Stone, thereby reaching the final stage of its evolutionary line.",70,62,67,55,55,56,15.69%,Wild,Poison,,Poison Point, Rivalry, Hustle
+Nidorino,"Having evolved from Nidoran Male as early as level 16, it evolves into Nidoking when contactually exposed to a Moon Stone, thereby reaching the final stage of its evolutionary line.",61,72,57,55,55,65,15.69%,Wild,Poison,,Poison Point, Rivalry, Hustle
+Ninetales,"Alolan Ninetales is a Ice and Fairy-type Pokémon. 
+Having evolved from Alolan Vulpix when contractually exposed to a Ice Stone, it is the final stage of its evolutionary line.",73,76,75,81,100,100,9.8%,None,Fire,,Flash Fire, Drought,
+Oddish,"It evolves into Gloom as early as level 21; thereafter, it will evolve into either Vileplume or Bellossom when contactually exposed to a Leaf Stone or Sun Stone, respectively, thereby reaching the final stage of its evolutionary line.",45,50,55,75,65,30,33.33%,"Wild, NPCs",Grass, Poison,Chlorophyll, Run Away,
+Omanyte,It evolves into Omastar as early as level 40.,35,40,100,90,55,35,5.88%,"Wild, Helix Fossil",Rock, Water,Swift Swim, Shell Armor, Weak Armor
+Omastar,It evolves from Omanyte as early as level 40.,70,60,125,115,70,55,5.88%,None,Rock, Water,Swift Swim, Shell Armor, Weak Armor
+Onix,It evolves into its only evolutionary outlet in Steelix when involved in any trading transaction while holding a Metal Coat.,35,45,160,30,45,70,5.88%,"Wild, Diggable Patches, NPCs",Rock, Ground,Rock Head, Sturdy, Weak Armor
+Paras,It evolves into Parasect as early as level 24.,35,70,55,45,55,25,24.84%,"Wild, NPCs",Bug, Grass,Effect Spore, Dry Skin, Damp
+Parasect,It evolves from Paras as early as level 24 and is the final stage in the evolutionary line thereof.,60,95,80,60,80,30,9.8%,Wild,Bug, Grass,Effect Spore, Dry Skin, Damp
+Persian,"Alolan Persian is a Dark-type Pokémon. 
+It evolves from Alolan Meowth while it has full happiness.",65,70,65,65,70,115,11.76%,None,Normal,,Limber, Technician, Unnerve
+Pidgeot,It evolves from Pidgeotto as early as level 36 and is the final evolutionary stage of Pidgey.,83,80,75,70,70,91,5.88%,Wild,Normal, Flying,Keen Eye, Tangled Feet, Big Pecks
+Pidgeotto,"Having evolved from Pidgey as early as level 18, it evolves into its final evolutionary stage in Pidgeot as early as level 36.",63,60,55,50,50,71,15.69%,Wild,Normal, Flying,Keen Eye, Tangled Feet, Big Pecks
+Pidgey,"It evolves into Pidgeotto as early as level 18, whereafter it evolves into Pidgeot as early as level 36.",40,45,40,35,35,56,33.33%,"Wild, Headbutt Trees, NPCs",Normal, Flying,Keen Eye, Tangled Feet, Big Pecks
+Pikachu,"Having evolved from its baby-stage pre-evolution in Pichu when leveled up with maximal happiness, it evolves into its final evolutionary stage in Raichu via usage of a Thunder Stone.",35,55,30,50,40,90,24.84%,"Wild, NPCs",Electric,,Static, Lightning Rod,
+Pinsir,,65,125,100,55,70,85,5.88%,"Wild, Headbutt Trees",Bug,,Hyper Cutter, Mold Breaker, Moxie
+Poliwag,"It evolves into Poliwhirl as early as level 25; thereafter, it will either evolve into Poliwrath via contactual exposure to a Water Stone, or it will evolve into Politoed when traded while holding a King's Rock.",40,50,40,40,40,90,33.33%,Wild,Water,,Water Absorb, Damp, Swift Swim
+Poliwhirl,"Having evolved from Poliwag as early as level 25, it has a bievolutionary outlet; it will either evolve into Poliwrath when contactually exposed to a Water Stone, or it will evolve into Politoed when traded while holding a King's Rock.",65,65,65,50,50,90,15.69%,Wild,Water,,Water Absorb, Damp, Swift Swim
+Poliwrath,"Having evolved from Poliwhirl whereupon being contactually exposed to a Water Stone, it is one out of two of Poliwag's final stages in its bievolutionary lines; the other one is Politoed, which evolves from Poliwhirl when traded while holding a King's Rock.",90,85,95,70,90,70,5.88%,Wild,Water, Fighting,Water Absorb, Damp, Swift Swim
+Ponyta,It evolves into its only evolutionary outlet in Rapidash as early as level 40.,50,85,55,65,65,90,24.84%,Wild,Fire,,Run Away, Flash Fire, Flame Body
+Porygon,"It evolves into Porygon2 when traded holding an Up-Grade, which evolves into Porygon-Z when traded holding a Dubious Disc.",65,60,70,85,75,40,5.88%,"Wild, Wondrous Site, Boss Reward, Cinnabar Research Lab",Normal,,Trace, Download, Analytic
+Primeape,"It is the only evolutionary outlet of Mankey, having evolved from it as early as level 28.",65,105,60,60,70,95,9.8%,Wild,Fighting,,Vital Spirit, Anger Point, Defiant
+Psyduck,It evolves into its only evolutionary outlet in Golduck as early as level 33.,50,52,48,65,50,55,24.84%,Wild,Water,,Damp, Cloud Nine, Swift Swim
+Raichu,"Raichu is a Electric-type Pokémon. 
+Having evolved from Pikachu via contractual exposure to a Thunder Stone, it is the final stage in the evolutionary line of the baby-stage Pichu Pokémon.",60,90,55,90,80,110,9.8%,None,Electric,,Static, Lightning Rod,
+Rapidash,"Having evolved from Ponyta at as early as level 40, it is its only evolutionary outlet.",65,100,70,80,80,105,7.84%,Wild,Fire,,Run Away, Flash Fire, Flame Body
+Raticate,"Alolan Raticate is a Dark and Normal-type Pokémon. 
+It evolves from Alolan Rattata at level 20 during nighttime, and is the final evolutionary stage of its line",55,81,60,50,70,97,16.6%,None,Normal,,Run Away, Guts, Hustle
+Rattata,"Alolan Rattata is a Dark and Normal-type Pokémon. 
+It evolves into Alolan Raticate at level 20 during nighttime.",30,56,35,25,35,72,33.33%,None,Normal,,Run Away, Guts, Hustle
+Rhydon,"Having evolved from Rhyhorn as early as level 42, it will evolve into Rhyperior by holding a Protector while transacted in any trade.",105,130,120,45,45,40,7.84%,Wild,Ground, Rock,Lightning Rod, Rock Head, Reckless
+Rhyhorn,"It evolves into Rhydon as early as level 42; thereafter, it will evolve into Rhyperior by holding a Protector while transacted in any trade.",80,85,95,30,30,25,15.69%,"Wild, Diggable Patches",Ground, Rock,Lightning Rod, Rock Head, Reckless
+Sandshrew,"Alolan Sandshrew is a Ice and Steel-type Pokémon. 
+It evolves into Alolan Sandslash when exposed to an Ice Stone.",50,75,85,20,30,40,33.33%,None,Ground,,Sand Veil, Sand Rush,
+Sandslash,"Alolan Sandslash is a Ice and Steel-type Pokémon. 
+It evolves from Alolan Sandshrew when contractually exposed to an Ice Stone, it is the final stage of its evolutionary line.",75,100,110,45,55,65,11.76%,None,Ground,,Sand Veil, Sand Rush,
+Scyther,Scyther is a Bug and Flying-type Pokémon. It evolves into Scizor when traded holding a Metal Coat.,70,110,80,55,80,105,5.88%,Wild,Bug, Flying,Swarm, Technician, Steadfast
+Seadra,"Having evolved from Horsea as early as level 32, it will evolve into its final evolutionary stage in Kingdra when it is transacted in a trade while equipping a Dragon Scale.",55,65,95,95,45,85,9.8%,Wild,Water,,Poison Point, Sniper, Damp
+Seaking,"It is the final stage of Goldeen's evolutionary line, having evolved from it as early as level 33.",80,92,65,65,80,68,7.84%,Wild,Water,,Swift Swim, Water Veil, Lightning Rod
+Seel,It evolves into its only evolutionary outlet in Dewgong as early as level 34.,65,45,55,45,70,45,4.44%,Wild,Water,,Thick Fat, Hydration, Ice Body
+Shellder,It evolves into its only evolutionary outlet in Cloyster when it is contactually exposed to a Water Stone.,30,65,100,45,25,40,24.84%,Wild,Water,,Shell Armor, Skill Link, Overcoat
+Slowbro,"It is one of the final evolutionary outlets of Slowpoke, having evolved from it as early as level 37; the other one is Slowking, which evolves from Slowpoke when traded while holding a King's Rock. 
+It can Mega Evolve into Mega Slowbro via exposure of the Slowbronite.",95,75,110,100,80,30,9.8%,Wild,Water, Psychic,Oblivious, Own Tempo, Regenerator
+Slowpoke,"In its bi-evolutionary line, it evolves into either Slowbro as early as level 37 or Slowking when traded while holding a King's Rock.",90,65,65,40,40,15,24.84%,"Wild, NPCs",Water, Psychic,Oblivious, Own Tempo, Regenerator
+Snorlax,"Having evolved from Munchlax when leveled up with maximal happiness, it is the final stage in Munchlax's evolutionary line.",160,110,65,65,110,30,3.27%,Wild,Normal,,Immunity, Thick Fat, Gluttony
+Spearow,It evolves into Fearow as early as level 20.,40,60,30,31,31,70,33.33%,"Wild, Headbutt Trees, NPCs",Normal, Flying,Keen Eye, Sniper,
+Squirtle,"It evolves into Wartortle at level 16, which then evolves into its final-stage form in Blastoise at level 36.",44,48,65,50,64,43,5.88%,"Headbutt Trees, Surfing, NPCs",Water,,Torrent, Rain Dish,
+Starmie,It evolves from its only evolutionary outlet in Staryu when contactually exposed to a Water Stone.,60,75,85,100,85,115,7.84%,"Wild, Miscellaneously",Water, Psychic,Illuminate, Natural Cure, Analytic
+Staryu,It evolves into its only evolutionary outlet in Starmie when contactually exposed to a Water Stone.,30,45,55,70,55,85,29.41%,"Wild, Miscellaneously",Water,,Illuminate, Natural Cure, Analytic
+Tangela,It evolves into its only evolutionary outlet in Tangrowth as soon as it is is leveled up while possessing the Ancient Power technique in its moveset.,65,55,115,100,40,60,5.88%,Wild,Grass,,Chlorophyll, Leaf Guard, Regenerator
+Tauros,,75,100,95,40,70,110,5.88%,"Wild, Headbutt Trees",Normal,,Intimidate, Anger Point, Sheer Force
+Tentacool,It evolves into its only evolutionary outlet in Tentacruel as early as level 30.,40,40,35,50,100,70,24.84%,"Wild, NPCs",Water, Poison,Clear Body, Liquid Ooze, Rain Dish
+Tentacruel,"It is the only evolutionary outlet of Tentacool, having evolved from it as early as level 30.",80,70,65,80,120,100,7.84%,Wild,Water, Poison,Clear Body, Liquid Ooze, Rain Dish
+Vaporeon,Vaporeon is a Water-type Pokémon and one of eight possible evolution based on Eevee. Having evolved from Eevee with the use of a Water Stone at any level.,130,65,60,110,95,65,5.88%,None,Water,,Water Absorb, Hydration,
+Venomoth,"It is the only evolutionary outlet of Venonat, having evolved from it as early as level 31.",70,65,60,90,75,90,9.8%,Wild,Bug, Poison,Shield Dust, Tinted Lens, Wonder Skin
+Venonat,It evolves into its only evolutionary outlet in Venomoth as early as level 31.,60,55,50,40,55,45,24.84%,Wild,Bug, Poison,Compound Eyes, Tinted Lens, Run Away
+Venusaur,"Venusaur is a Grass- and Poison-type Pokémon. Having evolved from Ivysaur at level 32, it is the final evolutionary stage of Bulbasaur.",80,82,83,100,100,80,5.88%,None,Grass, Poison,Overgrow, Chlorophyll,
+Victreebel,"Having evolved from Weepinbell via contactual exposure to a Leaf Stone, it is the final stage of Bellsprout's evolutionary line.",80,105,65,100,60,70,5.88%,Wild,Grass, Poison,Chlorophyll, Gluttony,
+Vileplume,"Having evolved from Gloom via contactual exposure to a Leaf Stone, it is one of the final stages of Oddish's evolutionary line; the other one is Bellossom, which evolves from Gloom via contactual exposure to a Sun Stone.",75,80,85,100,90,50,5.88%,Wild,Grass, Poison,Chlorophyll, Effect Spore,
+Voltorb,It evolves into its only evolutionary outlet in Electrode as early as level 30.,40,30,50,55,55,100,24.84%,"Wild, NPCs",Electric,,Soundproof, Static, Aftermath
+Vulpix,"Alolan Vulpix is a Ice-type Pokémon. 
+It evolves into Alolan Ninetales when contactually exposed to a Ice Stone, thereby reaching the final stage of its evolutionary line.",38,41,40,50,65,65,24.84%,None,Fire,,Flash Fire, Drought,
+Wartortle,"Wartortle is a Water-type Pokémon. Having evolved from Squirtle at level 16, it evolves into Blastoise at level 36.",59,63,80,65,80,58,5.88%,None,Water,,Torrent, Rain Dish,
+Weedle,"As a part of one of the earliest-evolvable level-designated evolutionary lines, Weedle into Kakuna at level 7; thereafter, it evolves into Beedrill at level 10.",40,35,30,20,20,50,33.33%,"Wild, Headbutt Trees, NPCs",Bug, Poison,Shield Dust, Run Away,
+Weepinbell,"Having evolved from Bellsprout as early as level 21, it evolves into Victreebel when contactually exposed to a Leaf Stone, thereby reaching the final stage of its evolutionary line.",65,90,50,85,45,55,15.69%,Wild,Grass, Poison,Chlorophyll, Gluttony,
+Weezing,"It is the only evolutionary outlet of Koffing, having evolved from it as early as level 35.",65,90,120,85,70,60,7.84%,Wild,Poison,,Levitate,,
+Wigglytuff,"Having evolved from Jigglypuff when contactually exposed to a Moon Stone, it is the final stage of Igglybuff's evolutionary line.",140,70,45,75,50,45,6.54%,Wild,Normal, Fairy,Cute Charm, Competitive, Frisk
+Zapdos,,90,90,85,125,90,100,0.39%,None,Electric, Flying,Pressure, Static,
+Zubat,"It evolves into Golbat as early as level 22; thereafter, it will evolve into Crobat when leveled up with maximal happiness, thereby reaching the final stage of its evolutionary line.",40,45,35,30,40,55,33.33%,"Wild, Headbutt trees, NPCs",Poison, Flying,Inner Focus, Infiltrator,
+Aipom,It evolves into Ambipom when leveled up while knowing Double Hit.,55,70,55,40,55,85,5.88%,"Land, Headbutt Trees",Normal,,Run Away, Pickup, Skill Link
+Ampharos,"Ampharos is an Electric type Pokémon.
+It evolves from Flaaffy starting at level 30.",90,75,75,115,90,55,5.88%,Land,Electric,,Static, Plus,
+Ariados,It evolves from Spinarak starting from level 22.,70,90,70,60,60,40,11.76%,"Land, Headbutt Trees",Bug, Poison,Swarm, Insomnia, Sniper
+Azumarill,It evolves from Marill starting at level 18. It is the final evolutionary stage of Azurill.,100,50,80,50,80,50,9.8%,"Land, Surfing",Water, Fairy,Thick Fat, Huge Power, Sap Sipper
+Baby XD001,,70,20,105,55,110,100,0.13%,None,Shadow, Flying,Marvel Scale, Multiscale,
+Bayleef,"This also generates a cross-contrasted leveling chart for Bayleef's evolutions in Chikorita and Meganium, thereby outputting how much more experience they would need to level up to reach the same level as Bulbasaur; this is helpful for those who want to know the exactitudes of how much experience they'll save by postponing evolutions, as evolved forms tend to require more experience to level up.",60,62,80,63,80,60,5.88%,"Wild, NPCs",Grass,,Overgrow, Leaf Guard,
+Bellossom,"Having evolved from Gloom via contactual exposure to a Sun Stone, it is one of the final stages of Oddish's evolutionary line; the other one is Vileplume, which evolves from Gloom via contactual exposure to a Leaf Stone.",75,80,85,90,100,50,5.88%,Wild,Grass,,Chlorophyll, Healer,
+Blissey,"Having evolved from Chansey when leveled up with maximal happiness, it is the final stage in Happiny's evolutionary line.",255,10,10,75,135,55,3.92%,None,Normal,,Natural Cure, Serene Grace, Healer
+Celebi,,100,100,100,100,100,100,5.88%,None,Grass, Psychic,Natural Cure,,
+Chikorita,"Chikorita is a Grass-type Pokémon. It evolves into Bayleef at level 16, which then evolves into its final-stage form in Meganium at level 32.",45,49,65,49,65,45,5.88%,"Wild, NPCs",Grass,,Overgrow, Leaf Guard,
+Chinchou,It evolves into Lanturn upon reaching level 27.,75,38,38,56,56,67,24.84%,"Surfing, Fishing",Water, Electric,Volt Absorb, Illuminate, Water Absorb
+Cleffa,"It evolves into Clefairy when leveled up with maximal happiness; thereafter, it will reach its final evolutionary outlet in Clefable when contactually exposed to a Moon Stone.",50,25,28,45,55,15,19.61%,"Wild, Headbutt Trees, Bosses, Daycare system",Fairy,,Cute Charm, Magic Guard, Friend Guard
+Corsola,,55,55,85,65,85,35,7.84%,"Surfing, Fishing",Water, Rock,Hustle, Natural Cure, Regenerator
+Crobat,"Having evolved from Golbat when leveled up with maximal happiness, it is the final stage of Zubat's evolutionary line.",85,90,80,70,80,130,11.76%,"Wild, Water, NPCs",Poison, Flying,Inner Focus, Infiltrator,
+Croconaw,It evolves from Totodile upon reaching level 18 and evolves into Feraligatr upon reaching level 30.,65,80,80,59,63,58,5.88%,None,Water,,Torrent, Sheer Force,
+Cyndaquil,"Cyndaquil is a Fire Pokémon. It evolves into Quilava at level 14, which then evolves into its final-stage form in Typhlosion at level 36.",39,52,43,60,50,65,5.88%,"Wild, NPCs, Doctors Quest, Bosses",Fire,,Blaze, Flash Fire,
+Delibird,,45,55,45,65,45,75,5.88%,"Land, Headbutt Trees",Ice, Flying,Vital Spirit, Hustle, Insomnia
+Donphan,Donphan is a Ground type Pokémon. It evolves from Phanpy upon reaching level 25.,90,120,120,60,60,50,7.84%,Land,Ground,,Sturdy, Sand Veil,
+Dunsparce,,100,70,70,65,65,45,24.84%,Land,Normal,,Serene Grace, Run Away, Rattled
+Elekid,"It evolves into Electabuzz upon reaching level 30, which then evolves into Electivire when traded holding an Electirizer.",45,63,37,65,55,95,5.88%,"Land, Headbutt Trees, Bosses",Electric,,Static, Vital Spirit,
+Entei,,115,115,85,90,75,100,0.39%,None,Fire,,Pressure, Inner Focus,
+Espeon,Espeon is a Psychic-type Pokémon and one of eight possible evolution based on Eevee. Having evolved from Eevee by a level up at day with the maximum ammount of happiness (255).,65,65,60,130,95,110,5.88%,Wild,Psychic,,Synchronize, Magic Bounce,
+Feraligatr,It evolves from Croconaw starting at level 30.,85,105,100,79,83,78,5.88%,"Wild, NPCs",Water,,Torrent, Sheer Force,
+Flaaffy,It evolves from Mareep starting at level 15. It can then evolve into Ampharos starting at level 30,70,55,55,80,60,45,15.69%,Land,Electric,,Static, Plus,
+Forretress,It evolves from Pineco after reaching level 31.,75,90,140,60,60,40,9.8%,None,Bug, Steel,Sturdy, Overcoat,
+Furret,It evolves from Sentret starting at level 15.,85,76,64,45,55,90,11.76%,Land,Normal,,Run Away, Keen Eye, Frisk
+Girafarig,,70,80,65,90,65,85,7.84%,Land,Normal, Psychic,Inner Focus, Early Bird, Sap Sipper
+Gligar,It evolves into Gliscor when leveled up at night while holding a Razor Fang.,65,75,105,35,65,85,7.84%,"Land, Headbutt Trees, Bosses",Ground, Flying,Hyper Cutter, Sand Veil, Immunity
+Granbull,It evolves from Snubbull after reaching level 23.,90,120,75,60,60,45,9.8%,None,Fairy,,Intimidate, Quick Feet, Rattled
+Heracross,,80,125,75,40,95,85,5.88%,"Land, Headbutt Trees, Bosses",Bug, Fighting,Swarm, Guts, Moxie
+Hitmontop,"It evolves from Tyrogue as early as level 20 when the total Defense is equal with its total Attack, otherwise it evolves into Hitmonlee when the Attack is higher than its Defense or into Hitmonchan when the Defense is higher than its Attack. Hitmontop is with all other possible evolutions of Tyrogue one of the final forms.",50,95,95,35,110,70,5.88%,Miscellaneous,Fighting,,Intimidate, Technician, Steadfast
+Ho-Oh,,106,130,90,110,154,90,0.39%,None,Fire, Flying,Pressure, Regenerator,
+Hoothoot,It evolves into Noctowl as early as level 20.,60,30,30,36,56,50,33.33%,Wild,Normal, Flying,Insomnia, Keen Eye, Tinted Lens
+Hoppip,"It evolves into Skiploom upon reaching level 18, which then evolves into Jumpluff at level 27.",35,35,40,35,55,50,33.33%,"Land, Headbutt Trees, Surfing",Grass, Flying,Chlorophyll, Leaf Guard, Infiltrator
+Houndoom,"It is the evolved form of Houndour, which evolves when it reaches level 24.",75,90,50,110,80,95,5.88%,None,Dark, Fire,Early Bird, Flash Fire, Unnerve
+Houndour,It evolves into its only evolutionary outlet in Houndoom at level 24.,45,60,30,80,50,65,15.69%,Land,Dark, Fire,Early Bird, Flash Fire, Unnerve
+Igglybuff,"It evolves into Jigglypuff when leveled up with maximal happiness; thereafter, it will reach its final evolutionary outlet in Wigglytuff when contactually exposed to a Moon Stone.",90,30,15,40,20,15,22.22%,"Wild, Headbutt Trees, NPCs",Normal, Fairy,Cute Charm, Competitive, Friend Guard
+Jumpluff,It evolves from Skiploom starting at level 27.,75,55,70,55,85,110,5.88%,Land,Grass, Flying,Chlorophyll, Leaf Guard, Infiltrator
+Kingdra,"Having evolved from Seadra whenever consummated in a trade while holding a Dragon Scale, it is the final stage of Horsea's evolutionary line.",75,95,95,95,95,85,5.88%,"Wild, Miscellaneous",Water, Dragon,Swift Swim, Sniper, Damp
+Lanturn,It evolves from Chinchou starting at level 27.,125,58,58,76,76,67,9.8%,Surfing,Water, Electric,Volt Absorb, Illuminate, Water Absorb
+Larvitar,"Larvitar is a Ground- and Rock-type Pokémon. It evolves into Pupitar at level 30, which then evolves into its final-stage form in Tyranitar at level 55.",50,64,50,45,50,41,5.88%,"Wild, Headbutt Trees, Diggable Patches, Excavation",Rock, Ground,Guts, Sand Veil,
+Ledian,It evolves from Ledyba starting at level 18.,55,35,50,55,110,85,11.76%,"Land, Headbutt Trees",Bug, Flying,Swarm, Early Bird, Iron Fist
+Ledyba,It evolves into Ledian upon reaching level 18.,40,20,30,40,80,55,33.33%,"Land, Headbutt Trees",Bug, Flying,Swarm, Early Bird, Rattled
+Lugia,,106,90,130,90,154,110,0.39%,None,Psychic, Flying,Pressure, Multiscale,
+Magby,"It evolves into Magmar as early as level 30; thereafter, it will evolve into Magmortar when involved in any trade transaction while holding a Magmarizer, thereby reaching the final stage of its evolutionary line.",45,75,37,70,55,83,5.88%,"Wild, Headbutt Trees, Bosses",Fire,,Flame Body, Vital Spirit,
+Magcargo,It evolves from Slugma starting at level 38.,50,50,120,80,80,30,9.8%,Land,Fire, Rock,Magma Armor, Flame Body, Weak Armor
+Mantine,Having evolved from Mantyke when leveled up with a Remoraid in your party.,65,40,70,80,140,70,3.27%,Surfing,Water, Flying,Swift Swim, Water Absorb, Water Veil
+Mareep,"It evolves into Flaaffy upon reaching level 15, which then evolves into Ampharos when it reaches level 30.",55,40,40,65,45,35,30.72%,Land,Electric,,Static, Plus,
+Marill,It evolves from Azurill when leveled up with max happiness(255). It evolves into Azumarill by level-up starting at level 18.,70,20,50,20,50,40,24.84%,"Land, Surf, Fishing, Excavation, Bosses",Water, Fairy,Thick Fat, Huge Power, Sap Sipper
+Meganium,Meganium is a Grass-type Pokémon. Having evolved from Bayleef at level 32.,80,82,100,83,100,80,5.88%,"Wild, NPCs",Grass,,Overgrow, Leaf Guard,
+Miltank,,95,80,105,40,70,100,5.88%,"Land, Bosses",Normal,,Thick Fat, Scrappy, Sap Sipper
+Misdreavus,It evolves into Mismagius when exposed to a Dusk Stone.,60,60,60,85,85,85,5.88%,"Land, Headbutt Trees",Ghost,,Levitate,,
+Murkrow,It evolves into Honchkrow when exposed to a Dusk Stone.,60,85,42,85,42,91,3.92%,"Land, Headbutt Trees",Dark, Flying,Insomnia, Super Luck, Prankster
+Natu,It evolves into Xatu upon reaching level 25.,40,50,45,70,45,70,24.84%,"Land, Headbutt Trees",Psychic, Flying,Synchronize, Early Bird, Magic Bounce
+Noctowl,It evolves from Hoothoot starting at level 20.,100,50,50,76,96,70,11.76%,"Land, Headbutt Trees",Normal, Flying,Insomnia, Keen Eye, Tinted Lens
+Octillery,It evolves from Remoraid starting at level 25.,75,105,75,105,75,45,9.8%,Surfing,Water,,Suction Cups, Sniper, Moody
+Phanpy,It evolves into Donphan upon reaching level 25.,90,60,60,40,40,40,15.69%,"Land, Diggable Patches, Excavation, Bosses",Ground,,Pickup, Sand Veil,
+Pichu,"It evolves into Pikachu when leveled up with maximal happiness; thereafter, it will reach its final evolutionary outlet in Raichu when contactually exposed to a Thunder Stone.",20,40,15,35,35,60,24.84%,"Wild, Headbutt Trees, NPCs",Electric,,Static, Lightning Rod,
+Piloswine,It evolves from Swinub starting at level 33. It then evolves to Mamoswine once the move Ancient Power has been learned.,100,100,80,60,60,50,9.8%,Land,Ice, Ground,Oblivious, Snow Cloak, Thick Fat
+Pineco,It evolves into Forretress upon reaching level 31.,50,65,90,35,35,15,24.84%,"Land, Headbutt Trees",Bug,,Sturdy, Overcoat,
+Politoed,"Having evolved from Poliwhirl when traded with a King's Rock, it is one of the final evolutionary stages of Poliwag in its bievolutionary line; the other one is Poliwrath, which also evolves from Poliwhirl when contactually exposed to a Water Stone.",90,75,75,90,100,70,5.88%,Wild,Water,,Water Absorb, Damp, Drizzle
+Porygon2,"It is the evolved form of Porygon, which evolves by trading a Porygon while it holds an Up-Grade. It then evolves into Porygon-Z when traded while holding a Dubious Disc.",85,80,90,105,95,60,5.88%,None,Normal,,Trace, Download, Analytic
+Pupitar,"Pupitar is a Ground and Rock-type Pokémon. It evolves from Larvitar at level 30, and then evolves into its final-evolution form, Tyranitar at level 55.",70,84,70,65,70,51,5.88%,"Wild, Diggable Patches",Rock, Ground,Shed Skin,,
+Quagsire,It evolves from Wooper starting at level 20.,95,85,85,65,65,35,11.76%,"Land, Surfing",Water, Ground,Damp, Water Absorb, Unaware
+Quilava,It evolves from Cyndaquil upon reaching level 14 and evolves into Typhlosion upon reaching level 36.,58,64,58,80,65,80,5.88%,None,Fire,,Blaze, Flash Fire,
+Qwilfish,,65,95,75,55,55,85,5.88%,"Surfing, Fishing",Water, Poison,Poison Point, Swift Swim, Intimidate
+Raikou,,90,85,75,115,100,115,0.39%,None,Electric,,Pressure, Inner Focus,
+Remoraid,It evolves into Octillery upon reaching level 25.,35,65,35,65,35,65,24.84%,"Surfing, Fishing",Water,,Hustle, Sniper, Moody
+Scizor,"Scizor is a Bug and Steel type Pokémon.
+It evolves from Scyther when traded while holding a Metal Coat.",70,130,100,55,80,65,3.27%,None,Bug, Steel,Swarm, Technician, Light Metal
+Sentret,It evolves into Furret as early as level 15.,35,46,34,35,45,20,33.33%,"Wild, Headbutt Trees",Normal,,Run Away, Keen Eye, Frisk
+Shuckle,,20,10,230,10,230,5,24.84%,"Land, Surfing, Bosses",Bug, Rock,Sturdy, Gluttony, Contrary
+Skarmory,,65,80,140,40,70,70,3.27%,"Land, Bosses",Steel, Flying,Keen Eye, Sturdy, Weak Armor
+Skiploom,It evolves from Hoppip starting at level 18. It then evolves to Jumpluff at level 27.,55,45,50,45,65,80,15.69%,Land,Grass, Flying,Chlorophyll, Leaf Guard, Infiltrator
+Slowking,"It is one of the final evolutionary outlets of Slowpoke, having evolved from it during any trade transaction whereby it holds a King's Rock; the other one is Slowbro, which evolves from Slowpoke as early as level 37.",95,75,80,100,110,30,9.15%,Wild,Water, Psychic,Oblivious, Own Tempo, Regenerator
+Slugma,It evolves into Magcargo upon reaching level 38.,40,40,40,70,40,20,24.84%,Land,Fire,,Magma Armor, Flame Body, Weak Armor
+Smeargle,,55,20,35,20,45,75,5.88%,Land,Normal,,Own Tempo, Technician, Moody
+Smoochum,It evolves into Jynx upon reaching level 30.,45,30,15,85,65,65,5.88%,"Land, Headbutt Trees, Bosses",Ice, Psychic,Oblivious, Forewarn, Hydration
+Sneasel,It evolves into Weavile when leveled up at night while holding a Razor Claw.,55,95,55,35,75,115,7.84%,"Land, Headbutt Trees, Bosses",Dark, Ice,Inner Focus, Keen Eye, Pickpocket
+Snubbull,It evolves into Granbull upon reaching level 23.,60,80,50,40,40,30,24.84%,"Land, Headbutt Trees",Fairy,,Intimidate, Run Away, Rattled
+Spinarak,It evolves into Ariados upon reaching level 22.,40,60,40,40,40,30,33.33%,"Land, Headbutt Trees, Bosses",Bug, Poison,Swarm, Insomnia, Sniper
+Stantler,,73,95,62,85,65,85,5.88%,Land,Normal,,Intimidate, Frisk, Sap Sipper
+Steelix,"It evolves from Onix when consummated in any trade transaction while holding a Metal Coat, thereby reaching the final stage of its evolutionary line.",75,85,200,55,65,30,3.27%,Wild,Steel, Ground,Rock Head, Sturdy, Sheer Force
+Sudowoodo,It evolves from Bonsly after having learned the move Mimic.,70,100,115,30,65,30,8.5%,"Land, Route 36",Rock,,Sturdy, Rock Head, Rattled
+Suicune,,100,75,115,90,115,85,0.39%,None,Water,,Pressure, Inner Focus,
+Sunflora,It evolves from Sunkern once exposed to a Sun Stone.,75,75,55,105,85,30,15.69%,None,Grass,,Chlorophyll, Solar Power, Early Bird
+Sunkern,It evolves into Sunflora when exposed to a Sun Stone.,30,30,30,30,30,30,30.72%,"Land, Headbutt Trees",Grass,,Chlorophyll, Solar Power, Early Bird
+Swinub,It evolves into Piloswine upon reaching level 33.,50,50,40,30,30,50,29.41%,"Land, Headbutt Trees, Excavation, Bosses",Ice, Ground,Oblivious, Snow Cloak, Thick Fat
+Teddiursa,It evolves into Ursaring upon reaching level 30.,60,80,50,50,50,40,15.69%,"Land, Headbutt Trees",Normal,,Pickup, Quick Feet, Honey Gather
+Togepi,"Togepi is a Fairy type Pokémon. It evolves into Togetic when leveled up with max happiness(255), which then evolves into Togekiss when exposed to a Shiny Stone.",35,20,65,40,65,20,24.84%,"Wild, Headbutt Trees, Bosses",Fairy,,Hustle, Serene Grace, Super Luck
+Togetic,,55,40,85,80,105,40,9.8%,Land,Fairy, Flying,Hustle, Serene Grace, Super Luck
+Totodile,"It evolves into Croconaw at level 18, which then evolves into its final-stage form in Feraligatr at level 30.",50,65,64,44,48,43,5.88%,"Wild, Headbutt Trees, NPCs",Water,,Torrent, Sheer Force,
+Typhlosion,It evolves from Quilava starting at level 36.,78,84,78,109,85,100,5.88%,"Wild, NPCs",Fire,,Blaze, Flash Fire,
+Tyranitar,"Tyranitar is a Rock and Dark-type Pokémon. It evolves from Pupitar starting at level 55. 
+It can Mega evolve into Mega Tyranitar via exposure to the Tyranitarite.",100,134,110,95,100,61,5.88%,World Quest,Rock, Dark,Sand Stream, Unnerve,
+Tyrogue,It evolves into one of three possible evolutions as early as level 20:,35,35,35,35,35,35,9.8%,"Wild, Miscellaneous",Fighting,,Guts, Steadfast, Vital Spirit
+Umbreon,Umbreon is a Dark-type Pokémon and one of eight possible evolution based on Eevee. Having evolved from Eevee by a level up at night with the maximum ammount of happiness (255).,95,65,110,60,130,65,5.88%,Wild,Dark,,Synchronize, Inner Focus,
+Unown,,48,72,48,72,48,48,29.41%,Land,Psychic,,Levitate,,
+Ursaring,It evolves from Teddiursa starting at level 30.,90,130,75,75,75,55,7.84%,"Land, Headbutt Trees",Normal,,Guts, Quick Feet, Unnerve
+Wobbuffet,It evolves from Wynaut starting at level 15.,190,33,58,33,58,33,5.88%,Land,Psychic,,Shadow Tag, Telepathy,
+Wooper,It evolves into Quagsire upon reaching level 20.,55,45,45,25,25,15,33.33%,"Land, Surfing, Fishing",Water, Ground,Damp, Water Absorb, Unaware
+Xatu,It evolves from Natu starting at level 25.,65,75,70,95,70,95,9.8%,None,Psychic, Flying,Synchronize, Early Bird, Magic Bounce
+Yanma,,65,65,45,75,45,95,9.8%,"Land, Headbutt Trees",Bug, Flying,Speed Boost, Compound Eyes, Frisk
+Absol,,65,130,60,75,60,75,3.92%,"Land, Bosses, Excavation",Dark,,Pressure, Super Luck, Justified
+Aggron,"Aggron is a Steel and Rock type Pokémon. 
+Its type changes to pure Steel when its mega evolved. 
+
+It evolves from Lairon upon reaching level 42. It is the final evolution of Aron. It can  Mega Evolve into Mega Aggron via the exposure of Aggronite.",70,110,180,60,60,50,5.88%,"Level Up, Egg Moves, TMs, TM Tutors, Move Tutors",Steel, Rock,Sturdy, Rock Head, Heavy Metal
+Altaria,Altaria is a Dragon and Flying-type Pokémon. Having evolved from Swablu at level 35.,75,70,90,70,105,80,5.88%,Wild,Dragon, Flying,Natural Cure, Cloud Nine,
+Anorith,It evolves into Armaldo upon reaching level 40.,45,95,50,40,50,75,5.88%,"Land, Bosses, Claw Fossil",Rock, Bug,Battle Armor, Swift Swim,
+Armaldo,Armaldo is a Rock and Bug-type Pokémon. Having evolved from Anorith at level 40.,75,125,100,70,80,45,5.88%,None,Rock, Bug,Battle Armor, Swift Swim,
+Aron,It evolves into Lairon upon reaching level 32 and then into Aggron upon reaching level 42.,50,70,100,40,40,30,23.53%,"Land, Excavation, Diggable Patches, Bosses, Abandoned Pokéball",Steel, Rock,Sturdy, Rock Head, Heavy Metal
+Azurill,"It evolves into Marill when leveled up with max happiness(255), which then evolves into Azumarill starting at level 18.",50,20,40,20,40,20,19.61%,"Land, Surfing",Normal, Fairy,Thick Fat, Huge Power, Sap Sipper
+Bagon,"It evolves into Shelgon upon reaching level 30, which then evolves into Salamence when it reaches level 50.",45,75,60,40,30,50,5.88%,"Land, Bosses",Dragon,,Rock Head, Sheer Force,
+Baltoy,It evolves into Claydol upon reaching level 36.,40,40,55,40,70,55,33.33%,"Land, Headbutt Trees, Excavation, Dig Spots",Ground, Psychic,Levitate,,
+Banette,Banette is a Ghost-type Pokémon. Having evolved from Shuppet at level 37.,64,115,65,83,63,65,5.88%,Wild,Ghost,,Insomnia, Frisk, Cursed Body
+Barboach,It evolves into Whiscash upon reaching level 30.,50,48,43,46,41,60,24.84%,"Surfing, Fishing",Water, Ground,Oblivious, Anticipation, Hydration
+Beautifly,"Beautifly evolves from Silcoon at level 10, thereby reaching the final stage of Wurmple's first evolutionary line.",60,70,50,90,50,65,5.88%,"Land, Headbutt Trees",Bug, Flying,Swarm, Rivalry,
+Beldum,"It evolves into Metang upon reaching level 20, which then evolves into Metagross at level 45.",40,55,80,35,60,30,0.39%,"Land, Headbutt Trees, Excavation, Bosses",Steel, Psychic,Clear Body, Light Metal,
+Blaziken,"Blaziken is a Fire and Fighting-type Pokémon. Having evolved from Combusken at level 36, it is the final evolutionary stage of Torchic.",80,120,70,110,70,80,5.88%,None,Fire, Fighting,Blaze, Speed Boost,
+Breloom,Breloom is a Grass and Fighting-type Pokémon. Having evolved from Shroomish at level 23.,60,130,80,60,60,70,11.76%,None,Grass, Fighting,Effect Spore, Poison Heal, Technician
+Cacnea,It evolves into Cacturne upon reaching level 32.,50,85,40,85,40,35,24.84%,"Land, Headbutt Trees",Grass,,Sand Veil, Water Absorb,
+Cacturne,Cacturne is a Grass and Dark-type Pokémon. Having evolved from Cacnea at level 32.,70,115,60,115,60,55,7.84%,Wild,Grass, Dark,Sand Veil, Water Absorb,
+Camerupt,"Camerupt is a Fire- and Ground-type Pokémon. It evolves from Numel, the only pre-evolution of its evolutionary line, as early as level 33. It can  Mega Evolve into Mega Camerupt via the exposure of Cameruptite.",70,100,70,105,75,40,19.61%,Land,Fire, Ground,Magma Armor, Solid Rock, Anger Point
+Carvanha,It evolves into Sharpedo upon reaching level 30.,45,90,20,65,20,65,29.41%,"Surfing, Fishing, Doctors Quest",Water, Dark,Rough Skin, Speed Boost,
+Cascoon,"Silcoon evolves from Wurmple at level 7; thereafter, it will evolve into its final evolutionary stage in Beautifly at level 10.",50,35,55,25,25,15,15.69%,"Land, Headbutt Trees",Bug,,Shed Skin,,
+Castform,,70,70,70,70,70,70,5.88%,"Land, Surfing, Fishing",Normal,,Forecast,,
+Chimecho,Chimecho is a Psychic-type Pokémon. Having evolved from Chingling when leveled up with max happiness during night-time..,65,50,70,95,80,65,5.88%,Wild,Psychic,,Levitate,,
+Clamperl,It evolves into Huntail when traded while holding a Deep Sea Tooth and into Gorebyss when traded while holding a Deep Sea Scale.,35,64,85,74,55,32,33.33%,"Surfing, Fishing, Excavation, Abandoned Ship, Love Island",Water,,Shell Armor, Rattled,
+Claydol,Claydol is a Ground and Psychic-type Pokémon. Having evolved from Baltoy at level 36.,60,70,105,70,120,75,11.76%,Wild,Ground, Psychic,Levitate,,
+Combusken,"Combusken is a Fire-type Pokémon. Having evolved from Torchic at level 16, it evolves into Blaziken at level 36.",60,85,60,85,60,55,5.88%,None,Fire, Fighting,Blaze, Speed Boost,
+Corphish,It evolves into Crawdaunt upon reaching level 30.,43,80,65,50,35,35,26.8%,"Land, Surfing, Fishing, Excavation, Doctors Quest",Water,,Hyper Cutter, Shell Armor, Adaptability
+Cradily,Cradily is a Rock and Grass-type Pokémon. Having evolved from Lileep at level 40.,86,81,97,81,107,43,5.88%,None,Rock, Grass,Suction Cups, Storm Drain,
+Crawdaunt,Crawdaunt is a Water and Dark-type Pokémon. Having evolved from Corphish at level 30.,63,120,85,90,55,55,20.26%,Surfing,Water, Dark,Hyper Cutter, Shell Armor, Adaptability
+Delcatty,Delcatty is a Normal-type Pokémon. Having evolved from Skitty at level when exposed to a Moon Stone.,70,65,65,55,55,70,7.84%,None,Normal,,Cute Charm, Normalize, Wonder Skin
+Deoxys,,50,95,90,95,90,180,0.39%,None,Psychic,,Pressure,,
+Dusclops,It evolves from Duskull starting at level 37 and then evolves into Dusknoir when traded while holding a Reaper Cloth.,40,70,130,60,130,25,11.76%,Land,Ghost,,Pressure, Frisk,
+Duskull,"It evolves into Dusclops as early as level 37, which then evolves into Dusknoir when traded holding a Reaper Cloth.",20,40,90,30,90,25,24.84%,"Land, Excavation",Ghost,,Levitate, Frisk,
+Dustox,"Dustox evolves from Cascoon at level 10, thereby reaching the final stage of Wurmple's second evolutionary line.",60,50,70,50,90,90,5.88%,"Land, Headbutt Trees",Bug, Poison,Shield Dust, Compound Eyes,
+Electrike,It evolves into Manectric upon reaching level 26.,40,45,40,65,40,65,15.69%,"Land, Bosses",Electric,,Static, Lightning Rod, Minus
+Exploud,"Exploud is a Normal-type Pokémon. Having evolved from Loudred at level 40, it is the final evolutionary stage of Whismur.",104,91,63,91,63,68,5.88%,None,Normal,,Soundproof, Scrappy,
+Feebas,It evolves into Milotic when traded while holding a Prism Scale.,20,15,20,10,55,80,33.33%,"Surfing, Fishing, Excavation, Bosses",Water,,Swift Swim, Oblivious, Adaptability
+Flygon,Having it evolved from Vibrava at level 45.,80,100,80,80,80,100,5.88%,None,Ground, Dragon,Levitate,,
+Gardevoir,Gardevoir is a Psychic and Fairy type Pokémon. It evolves from Kirlia at level 30. It is the female counterpart to Gallade and is the final evolution of Ralts.,68,65,65,125,115,80,5.88%,None,Psychic, Fairy,Synchronize, Trace, Telepathy
+Glalie,Glalie is an Ice-type Pokémon. Having evolved from Snorunt at level 42.,80,80,80,80,80,80,9.8%,Wild,Ice,,Inner Focus, Ice Body, Moody
+Gorebyss,Gorebyss is a Water-type Pokémon. Having evolved from Clamperl when consummated in any trade transaction while holding a Deep Sea Scale.,55,84,105,114,75,52,7.84%,None,Water,,Swift Swim, Hydration,
+Groudon,,100,150,140,100,90,90,0.39%,None,Ground,,Drought,,
+Grovyle,"Grovyle is a Grass-type Pokémon. Having evolved from Treecko at level 16, it evolves into Sceptile at level 36.",50,65,45,85,65,95,5.88%,None,Grass,,Overgrow, Unburden,
+Grumpig,Grumpig is a Psychic type Pokémon. Having it evolved from Spoink upon reaching level 32.,80,45,65,90,110,80,7.84%,"Level Up, Egg Moves, TMs, TM Tutors, Move Tutors",Psychic,,Thick Fat, Own Tempo, Gluttony
+Gulpin,It evolves into Swalot upon reaching level 26.,70,43,53,43,53,40,29.41%,Land,Poison,,Liquid Ooze, Sticky Hold, Gluttony
+Hariyama,Hariyama is a Fighting-type Pokémon. Having evolved from Makuhita at level 24.,144,120,60,40,60,50,26.14%,Wild,Fighting,,Thick Fat, Guts, Sheer Force
+Huntail,Huntail is a Water-type Pokémon. Having evolved from Clamperl when consummated in any trade transaction while holding a Deep Sea Tooth.,55,104,105,94,75,52,7.84%,None,Water,,Swift Swim, Water Veil,
+Illumise,,65,47,55,73,75,85,19.61%,"Land, Headbutt Trees",Bug,,Oblivious, Tinted Lens, Prankster
+Jirachi,,100,100,100,100,100,100,0.39%,None,Steel, Psychic,Serene Grace,,
+Kecleon,,60,90,70,60,120,40,26.14%,Land,Normal,,Color Change, Protean,
+Kirlia,"Kirlia is a Psychic and Fairy type Pokémon. 
+It evolves into Ralts upon reaching level 20, and evolves either into Gardevoir at level 30, or, if male, Gallade when exposed to a Dawn Stone.",38,35,35,65,55,50,15.69%,Wild,Psychic, Fairy,Synchronize, Trace, Telepathy
+Kyogre,,100,100,90,150,140,90,0.39%,None,Water,,Drizzle,,
+Lairon,It evolves from Aron upon reaching level 32 and then into Aggron upon reaching level 42.,60,90,140,50,50,40,11.76%,Land,Steel, Rock,Sturdy, Rock Head, Heavy Metal
+Latias,,80,80,90,110,130,110,0.39%,None,Dragon, Psychic,Levitate,,
+Latios,,80,90,80,130,110,110,0.39%,None,Dragon, Psychic,Levitate,,
+Lileep,It evolves into Cradily upon reaching level 40.,66,41,77,61,87,23,5.88%,"Land, Bosses, Root Fossil",Rock, Grass,Suction Cups, Storm Drain,
+Linoone,It evolves From Zigzagoon and into its only evolution Linoone as early as level 20.,78,70,61,50,61,100,11.76%,Land,Normal,,Pickup, Gluttony, Quick Feet
+Lombre,"Lombre is a [Water[_(type)|Water]] and Grass-type Pokémon. Having evolved from Lotad at level 14, it evolved into Ludicolo when exposed to a Water Stone.",60,50,50,60,70,50,15.69%,"Wild, Surfing",Water, Grass,Swift Swim, Rain Dish, Own Tempo
+Lotad,"It evolves into Lombre upon reaching level 14, which then evolves into Ludicolo when exposed to a Water Stone.",40,30,30,40,50,30,33.33%,"Land, Surfing, Fishing, Bosses",Water, Grass,Swift Swim, Rain Dish, Own Tempo
+Loudred,"Having it evolved into Whismur upon reaching level 20, and evolves into Exploud at level 40.",84,71,43,71,43,48,15.69%,Land,Normal,,Soundproof, Scrappy,
+Ludicolo,"Ludicolo is a Water and Grass-type Pokémon. Having evolved from Lombre at level , it is the final evolutionary stage of Lotad.",80,70,70,90,100,70,5.88%,"Wild, Surfing",Water, Grass,Swift Swim, Rain Dish, Own Tempo
+Lunatone,,70,55,65,95,85,70,5.88%,"Land, Surfing, Excavation",Rock, Psychic,Levitate,,
+Luvdisc,,43,30,55,40,65,97,29.41%,"Surfing, Fishing",Water,,Swift Swim, Hydration,
+Makuhita,It evolves into Hariyama upon reaching level 24.,72,60,30,20,30,25,23.53%,Land,Fighting,,Thick Fat, Guts, Sheer Force
+Manectric,Manectric is an Electric-type Pokémon. Having evolved from Electrike at level 26.,70,75,60,105,60,105,5.88%,Wild,Electric,,Static, Lightning Rod, Minus
+Marshtomp,"Marshtomp is a [Water[_(type)|Water]] and Ground-type Pokémon. Having evolved from Mudkip at level 16, evolves into Swampert at level 36.",70,85,70,60,70,50,5.88%,None,Water, Ground,Torrent, Damp,
+Masquerain,Masquerain is a Bug and Flying-type Pokémon. Having evolved from Surskit at level 22.,70,60,62,80,82,60,9.8%,"Wild, Surfing",Bug, Flying,Intimidate, Unnerve,
+Mawile,,50,85,85,55,55,50,5.88%,"Land, Bosses",Steel, Fairy,Hyper Cutter, Intimidate, Sheer Force
+Medicham,Medicham is a Fighting and Psychic-type Pokémon. Having evolved from Meditite at level 37.,60,60,75,60,75,80,11.76%,Wild,Fighting, Psychic,Pure Power, Telepathy,
+Meditite,It evolves into Medicham upon reaching level 37.,30,40,55,40,55,60,23.53%,"Land, Bosses",Fighting, Psychic,Pure Power, Telepathy,
+Metagross,It evolves from Metang starting at level 45. It can Mega Evolve into Mega Metagross via exposure to the Metagrossite.,80,135,130,95,90,70,0.39%,None,Steel, Psychic,Clear Body, Light Metal,
+Metang,It is the evolved form of Beldum and evolves into Metagross upon reaching level 45.,60,75,100,55,80,50,0.39%,Land,Steel, Psychic,Clear Body, Light Metal,
+Mightyena,It evolves From Poochyena and into its only evolution Mightyena as early as level 18.,70,90,70,60,60,70,16.6%,Land,Dark,,Intimidate, Quick Feet, Moxie
+Milotic,It evolves from Feebas when traded with a Prism Scale.,95,60,79,100,125,81,7.84%,Surfing,Water,,Marvel Scale, Competitive, Cute Charm
+Minun,,60,40,50,75,85,95,26.14%,"Land, Headbutt Trees",Electric,,Minus, Volt Absorb,
+Mudkip,"It evolves into Marshtomp upon reaching level 16, which then evolves into Swampert after reaching level 36. It is the Water type starter of Hoenn.",50,70,50,50,50,40,5.88%,"Land, Surfing, Headbutt Trees, Bosses, Excavation, Hoenn Daycare",Water,,Torrent, Damp,
+Nincada,"It evolves into Ninjask at level 20 and, if a party slot is vacant and at least 1 Pokeball is in the players bag, it will also evolve into Shedinja, giving you two Pokémon.",31,45,90,30,30,40,33.33%,"Land, Bosses",Bug, Ground,Compound Eyes, Run Away,
+Ninjask,Ninjask is a Bug and Flying-type Pokémon. Having evolved from Nincada at level 20.,61,90,45,50,50,160,15.69%,None,Bug, Flying,Speed Boost, Infiltrator,
+Nosepass,"It evolves into Probopass when leveled up at either Power Plant, New Mauville, Mt. Coronet North, Mt. Coronet South or Mt. Coronet Summit.",30,45,135,45,135,30,33.33%,"Land, Diggable Patches",Rock,,Sturdy, Magnet Pull, Sand Force
+Numel,"Numel is a Fire- and Ground-type Pokémon. It evolves into Camerupt as early as level 33, which is the final stage of its evolutionary line.",60,60,40,65,45,35,33.33%,Land,Fire, Ground,Oblivious, Simple, Own Tempo
+Nuzleaf,"It evolves from Seedot upon reaching level 14, and evolves into Shiftry when exposed to a Leaf Stone.",70,70,40,60,40,60,15.69%,"Land, Headbutt Trees",Grass, Dark,Chlorophyll, Early Bird, Pickpocket
+Pelipper,It evolves from Wingull upon reaching level 25.,60,50,100,85,70,65,5.88%,"Land, Surfing",Water, Flying,Keen Eye, Drizzle, Rain Dish
+Plusle,,60,50,40,85,75,95,26.14%,"Land, Headbutt Trees, Bosses",Electric,,Plus, Lightning Rod,
+Poochyena,It evolves into Mightyena upon reaching level 18.,30,55,35,30,30,35,33.33%,"Land, Headbutt Trees, Bosses",Dark,,Run Away, Quick Feet, Rattled
+Ralts,"Ralts is a Psychic and Fairy type Pokémon. 
+It evolves into Kirlia upon reaching level 20, which evolves either into Gardevoir at level 30, or, if male, Gallade when exposed to a Dawn Stone.",28,25,25,45,35,40,30.72%,"Wild, Bosses",Psychic, Fairy,Synchronize, Trace, Telepathy
+Rayquaza,,105,150,90,150,90,95,0.39%,None,Dragon, Flying,Air Lock,,
+Regice,,80,50,100,100,200,50,0.39%,None,Ice,,Clear Body, Ice Body,
+Regirock,,80,100,200,50,100,50,0.39%,None,Rock,,Clear Body, Sturdy,
+Registeel,,80,75,150,75,150,50,0.39%,None,Steel,,Clear Body, Light Metal,
+Relicanth,,100,90,130,45,65,55,3.27%,"Surfing, Fishing, Bosses",Water, Rock,Swift Swim, Rock Head, Sturdy
+Roselia,It evolves from Budew when leveled up with maximum happiness(255) during the daytime and evolves into Roserade when exposed to a Shiny Stone.,50,60,45,100,80,65,19.61%,Land,Grass, Poison,Natural Cure, Poison Point, Leaf Guard
+Sableye,,50,75,75,65,65,50,5.88%,"Land, Headbutt Trees, Bosses",Dark, Ghost,Keen Eye, Stall, Prankster
+Salamence,"Salamence is a Dragon and Flying-type Pokémon. Having evolved from Shelgon at level 50, it is the final evolutionary stage of Bagon.",95,135,80,110,80,100,5.88%,None,Dragon, Flying,Intimidate, Moxie,
+Sceptile,"Sceptile is a Grass-type Pokémon. Having evolved from Grovyle at level 36, it is the final evolutionary stage of Treecko.",70,85,65,105,85,120,5.88%,None,Grass,,Overgrow, Unburden,
+Sealeo,"Sealeo is a Ice and Water-type Pokémon. Having evolved from Spheal at level 32, it evolves into Walrein at level 44.",90,60,70,75,70,45,15.69%,"Wild, Surfing",Ice, Water,Thick Fat, Ice Body, Oblivious
+Seedot,"It evolves into Nuzleaf upon reaching level 14, which then evolves into Shiftry when exposed to a Leaf Stone.",40,40,50,30,30,30,33.33%,"Land, Headbutt Trees, Doctors Quest",Grass,,Chlorophyll, Early Bird, Pickpocket
+Seviper,,73,100,60,100,60,65,11.76%,Land,Poison,,Shed Skin, Infiltrator,
+Sharpedo,Sharpedo is a Dark and Water type Pokémon. Having it evolved from Carvanha upon reaching level 30. It can  Mega Evolve into Mega Sharpedo via the exposure of Sharpedonite.,70,120,40,95,40,95,7.84%,"Surfing, Fishing",Water, Dark,Rough Skin, Speed Boost,
+Shedinja,"Shedinja is a Bug and Ghost-type Pokémon. Having evolved from Nincada at level 20 and, if a party slot is vacant and at least 1 Pokeball is in the players bag.",1,90,45,30,30,40,5.88%,None,Bug, Ghost,Wonder Guard,,
+Shelgon,"Shelgon is a Dragon-type Pokémon. Having evolved from Bagon at level 30, it evolves into Salamence at level 50.",65,95,100,60,50,50,5.88%,None,Dragon,,Rock Head, Overcoat,
+Shiftry,It evolves from Nuzleaf  when exposed to a Leaf Stone. This is the final form of Seedot,90,100,60,90,60,80,5.88%,"Land, Headbutt Trees",Grass, Dark,Chlorophyll, Early Bird, Pickpocket
+Shroomish,It evolves into Breloom upon reaching level 23.,60,40,60,40,60,35,33.33%,"Land, Headbutt Trees, Excavation, Bosses",Grass,,Effect Spore, Poison Heal, Quick Feet
+Shuppet,It evolves into Banette upon reaching level 37.,44,75,35,63,33,45,29.41%,"Land, Surfing, Excavation",Ghost,,Insomnia, Frisk, Cursed Body
+Silcoon,"Silcoon evolves from Wurmple at level 7; thereafter, it will evolve into its final evolutionary stage in Beautifly at level 10.",50,35,55,25,25,15,15.69%,"Land, Headbutt Trees",Bug,,Shed Skin,,
+Skitty,It evolves into Delcatty when exposed to a Moon Stone.,50,45,45,35,35,50,33.33%,Land,Normal,,Cute Charm, Normalize, Wonder Skin
+Slaking,"Slaking is a Normal-type Pokémon. Having evolved from Vigoroth at level , it is the final evolutionary stage of Slakoth.",150,160,100,95,65,100,5.88%,Wild,Normal,,Truant,,
+Slakoth,"It evolves into Vigoroth upon reaching level 18, which then evolves into Slaking when it reaches level 36.",60,60,60,35,35,30,33.33%,"Land, Headbutt Trees, Bosses",Normal,,Truant,,
+Snorunt,,50,50,50,50,50,50,24.84%,"Land, Excavation",Ice,,Inner Focus, Ice Body, Moody
+Solrock,,70,95,85,55,65,70,5.88%,"Land, Surfing, Excavation",Rock, Psychic,Levitate,,
+Spheal,"It evolves into Sealeo upon reaching level 32, which then evolves into Walrein when it reaches level 44.",70,40,50,55,50,25,33.33%,"Land, Surfing, Fishing",Ice, Water,Thick Fat, Ice Body, Oblivious
+Spinda,,60,60,60,60,60,60,33.33%,Land,Normal,,Own Tempo, Tangled Feet, Contrary
+Spoink,"Spoink is a Psychic type Pokémon.
+It evolves into Grumpig upon reaching level 32.",60,25,35,70,80,60,33.33%,"Land, Excavation",Psychic,,Thick Fat, Own Tempo, Gluttony
+Surskit,It evolves into Masquerain upon reaching level 22.,40,30,32,50,52,65,26.14%,"Land, Headbutt Trees, Surfing, Fishing",Bug, Water,Swift Swim, Rain Dish,
+Swablu,It evolves into Altaria upon reaching level 35.,45,40,60,40,75,50,33.33%,"Land, Bosses, Doctors Quest",Normal, Flying,Natural Cure, Cloud Nine,
+Swalot,Swalot is a Poison-type Pokémon. Having evolved from Gulpin at level 26.,100,73,83,73,83,55,9.8%,None,Poison,,Liquid Ooze, Sticky Hold, Gluttony
+Swampert,"Swampert is a Water and Ground-type Pokémon. Having evolved from Marshtomp at level 36, it is the final evolutionary stage of Mudkip.",100,110,90,85,90,60,5.88%,None,Water, Ground,Torrent, Damp,
+Swellow,Swellow is a Normal and Flying-type Pokémon. Having evolved from Taillow at level 22.,60,85,60,50,50,125,5.88%,Wild,Normal, Flying,Guts, Scrappy,
+Taillow,It evolves into Swellow upon reaching level 22.,40,55,30,30,30,85,26.14%,"Land, Headbutt Trees",Normal, Flying,Guts, Scrappy,
+Torchic,"Torchic is a Hoenn's Fire type starter Pokémon. It evolves into Combusken upon reaching level 16, which then evolves into Blaziken after reaching level 36.",45,60,40,70,50,45,5.88%,"Wild, Headbutt Trees, NPCs",Fire,,Blaze, Speed Boost,
+Torkoal,,70,85,140,85,70,20,11.76%,"Land, Excavation, Bosses",Fire,,White Smoke, Drought, Shell Armor
+Trapinch,"It evolves into Vibrava upon reaching level 35, which then evolves into Flygon at level 45.",45,100,45,45,45,10,33.33%,"Land, Excavation, Dig Spots, Bosses",Ground,,Hyper Cutter, Arena Trap, Sheer Force
+Treecko,"Treecko is a Grass-type Pokémon. It evolves into Grovyle at level 16, which then evolves into its final-stage form in Sceptile at level 36.",40,45,35,65,55,70,5.88%,"Land, Headbutt Trees, Starter Pokémon, Professor Birch (boss), Hoenn Daycare",Grass,,Overgrow, Unburden,
+Tropius,,99,68,83,72,87,51,26.14%,Land,Grass, Flying,Chlorophyll, Solar Power, Harvest
+Vibrava,"Having it evolved from Trapinch upon reaching level 35, and evolves into Flygon at level 45.",50,70,50,50,50,70,15.69%,"Land, Headbutt Trees",Ground, Dragon,Levitate,,
+Vigoroth,"Vigoroth is a Normal-type Pokémon. Having evolved from Slakoth at level 18, it evolves into Slaking at level 36.",80,80,80,55,55,90,15.69%,None,Normal,,Vital Spirit,,
+Volbeat,,65,73,55,47,75,85,19.61%,"Land, Headbutt Trees",Bug,,Illuminate, Swarm, Prankster
+Wailmer,It evolves into Wailord starting at level 40.,130,70,35,70,35,60,16.34%,"Surfing, Fishing, Bosses",Water,,Water Veil, Oblivious, Pressure
+Wailord,It evolves from Wailmer starting at level 40.,170,90,45,90,45,60,7.84%,Surfing,Water,,Water Veil, Oblivious, Pressure
+Walrein,"Walrein is an Ice and Water-type Pokémon. Having evolved from Sealeo at level 44, it is the final evolutionary stage of Spheal.",110,80,90,95,90,65,5.88%,None,Ice, Water,Thick Fat, Ice Body, Oblivious
+Whiscash,Whiscash is a Water and Ground-type Pokémon. Having evolved from Barboach at level 30.,110,78,73,76,71,60,9.8%,Surfing,Water, Ground,Oblivious, Anticipation, Hydration
+Whismur,"It evolves into Loudred upon reaching level 20, which then evolves into Exploud at level 40.",64,51,23,51,23,28,24.84%,"Land, Doctors Quest",Normal,,Soundproof, Rattled,
+Wingull,It evolves into Pelipper upon reaching level 25.,40,30,30,55,30,85,24.84%,"Land, Headbutt Trees, Surfing",Water, Flying,Keen Eye, Hydration, Rain Dish
+Wurmple,,45,45,35,20,30,20,33.33%,"Land, Headbutt Trees",Bug,,Shield Dust, Run Away,
+Wynaut,It evolves into Wobbuffet upon reaching level 15.,95,23,48,23,48,23,16.34%,"Land, Headbutt Trees, Bosses, Doctors Quest",Psychic,,Shadow Tag, Telepathy,
+Zangoose,,73,115,60,60,60,90,11.76%,Land,Normal,,Immunity, Toxic Boost,
+Zigzagoon,It evolves into Linoone upon reaching level 20.,38,30,41,30,41,60,33.33%,Land,Normal,,Pickup, Gluttony, Quick Feet
+Abomasnow,It is the only evolutionary outlet of Snover having evolved from it upon reaching level 40.,90,92,75,92,85,60,7.84%,Land,Grass, Ice,Snow Warning, Soundproof,
+Ambipom,Ambipom is a Normal-type Pokémon. Having evolved from Aipom when leveled up while knowing Double Hit.,75,100,66,60,66,115,5.88%,None,Normal,,Technician, Pickup, Skill Link
+Arceus,,120,120,120,120,120,120,0.39%,None,Normal,,Multitype,,
+Azelf,,75,125,70,125,70,115,0.39%,None,Psychic,,Levitate,,
+Bastiodon,Bastiodon is a Rock and Steel-type Pokémon. Having evolved from Shieldon at level 30.,60,52,168,47,138,30,5.88%,None,Rock, Steel,Sturdy, Soundproof,
+Bibarel,Bibarel is a Normal and Water-type Pokémon. Having evolved from Bidoof at level 15.,79,85,60,55,60,71,16.6%,Wild,Normal, Water,Simple, Unaware, Moody
+Bidoof,It evolves into Bibarel upon reaching level 15.,59,45,40,35,40,31,33.33%,"Land, Surfing, Headbutt Trees",Normal,,Simple, Unaware, Moody
+Bonsly,It evolves into Sudowoodo when leveled up while knowing Mimic.,50,80,95,10,45,10,33.33%,"Land, Bosses",Rock,,Sturdy, Rock Head, Rattled
+Bronzong,Bronzong is a Steel- and Psychic-type Pokémon. Having evolved from Bronzor at level 33.,67,89,116,79,116,33,11.76%,Wild,Steel, Psychic,Levitate, Heatproof, Heavy Metal
+Bronzor,It evolves into Bronzong upon reaching level 33.,57,24,86,24,86,23,33.33%,"Land, Headbutt Trees, Excavation, Bosses, Dig Spots",Steel, Psychic,Levitate, Heatproof, Heavy Metal
+Budew,"It evolves into Roselia when leveled up with max happiness (255) during daytime, which then evolves into Roserade when exposed to a Shiny Stone.",40,30,35,50,70,55,33.33%,"Land, Excavation, Bosses",Grass, Poison,Natural Cure, Poison Point, Leaf Guard
+Buizel,It evolves into Floatzel as early as level 26.,55,65,35,60,30,85,24.84%,"Land, Surfing, Fishing, Excavation",Water,,Swift Swim, Water Veil,
+Buneary,It evolves into Lopunny when leveled up with maximum Happiness(255).,55,66,44,44,56,85,24.84%,Land,Normal,,Run Away, Klutz, Limber
+Burmy,It evolves into Wormadam or Mothim,40,29,45,29,45,36,15.69%,"Land, Headbutt Trees, Excavation",Bug,,Shed Skin, Overcoat,
+Carnivine,,74,100,72,90,72,46,26.14%,"Land, Headbutt Trees",Grass,,Levitate,,
+Chatot,,76,65,45,92,42,91,3.92%,"Land, Headbutt Trees",Normal, Flying,Keen Eye, Tangled Feet, Big Pecks
+Cherrim,Cherrim is a Grass-type Pokémon. Having evolved from Cherubi at level 25.,70,60,70,87,78,85,9.8%,Wild,Grass,,Flower Gift,,
+Cherubi,Cherubi is a Grass type Pokémon. It evolves into Cherrim at level 25.,45,35,45,62,63,35,24.84%,"Wild, Headbutt Trees",Grass,,Chlorophyll,,
+Chimchar,"It evolves into Monferno upon reaching level 14, which then evolves into Infernape at level 36. It is the Fire type starter of Sinnoh",44,58,44,58,44,61,5.88%,"Land, Headbutt Trees, Bosses",Fire,,Blaze, Iron Fist,
+Chingling,It evolves into Chimecho when leveled up with maximum Happiness(255) during night-time.,45,30,50,65,50,45,15.69%,"Land, Headbutt Trees",Psychic,,Levitate,,
+Combee,It evolves into Vespiquen upon reaching level 21; must be female.,30,30,42,30,42,70,15.69%,"Land, Headbutt Trees, Excavation",Bug, Flying,Honey Gather, Hustle,
+Cranidos,It evolves into Rampardos upon reaching level 30.,67,125,40,30,30,58,5.88%,"Land, Skull Fossil",Rock,,Mold Breaker, Sheer Force,
+Cresselia,,120,70,120,75,130,85,0.39%,None,Psychic,,Levitate,,
+Croagunk,It evolves into Toxicroak upon reaching level 37.,48,61,40,61,40,50,18.3%,"Land, Excavation",Poison, Fighting,Anticipation, Dry Skin, Poison Touch
+Darkrai,,70,90,90,135,90,125,0.39%,None,Dark,,Bad Dreams,,
+Dialga,,100,120,120,150,100,90,0.39%,None,Steel, Dragon,Pressure, Telepathy,
+Drapion,It evolves from Skorupi starting at level 40.,70,90,110,60,75,95,5.88%,None,Poison, Dark,Battle Armor, Sniper, Keen Eye
+Drifblim,Drifblim is a Ghost and Flying-type Pokémon. Having evolved from Drifloon at level 28.,150,80,44,90,54,80,7.84%,None,Ghost, Flying,Aftermath, Unburden, Flare Boost
+Drifloon,It evolves into Drifblim upon reaching level 28.,90,50,34,60,44,70,16.34%,"Land, Headbutt Trees",Ghost, Flying,Aftermath, Unburden, Flare Boost
+Dusknoir,It evolves from Dusclops when traded while holding a Reaper Cloth.,45,100,135,65,135,45,11.76%,None,Ghost,,Pressure, Frisk,
+Electivire,"Electivire is an Electric-type Pokémon. Having evolved from Electabuzz when traded holding an Electirizer, it is the final evolutionary stage of Elekid.",75,123,67,95,85,95,3.92%,None,Electric,,Motor Drive, Vital Spirit,
+Empoleon,"Empoleon is a Water and Steel-type Pokémon. Having evolved from Prinplup at level 36, it is the final evolutionary stage of Piplup.",84,86,88,111,101,60,5.88%,None,Water, Steel,Torrent, Defiant,
+Finneon,It evolves into Lumineon upon reaching level 31.,49,49,56,49,61,66,24.84%,"Surfing, Fishing",Water,,Swift Swim, Storm Drain, Water Veil
+Floatzel,It evolves from Buizel upon reaching level 26.,85,105,55,85,50,115,9.8%,"Land, Surfing",Water,,Swift Swim, Water Veil,
+Froslass,"Froslass is a Ice- and Ghost-type Pokémon.
+It evolves from Snorunt when exposed to a Dawn Stone (Must be Female). It is the female counterpart to Glalie.",70,80,70,80,70,110,9.8%,Land,Ice, Ghost,Snow Cloak, Cursed Body,
+Gabite,It evolves from Gible starting at level 24 and then evolves into Garchomp upon reaching level 48.,68,90,65,50,55,82,5.88%,None,Dragon, Ground,Sand Veil, Rough Skin,
+Gallade,"Gallade is a Psychic and Fighting type Pokémon. It evolves from a male Kirlia when exposed to a Dawn Stone. 
+It is the male counterpart to Gardevoir and the final evolution of Ralts.",68,125,65,65,115,80,5.88%,None,Psychic, Fighting,Steadfast, Justified,
+Garchomp,It evolves from Gabite starting at level 48.,108,130,95,80,85,102,5.88%,World Quest,Dragon, Ground,Sand Veil, Rough Skin,
+Gastrodon,Gastrodon is a Water and Ground-type Pokémon. Having evolved from Shellos at level 30.,111,83,68,92,82,39,9.8%,Surfing,Water, Ground,Sticky Hold, Storm Drain, Sand Force
+Gible,"It evolves into Gabite upon reaching level 24, which then evolves into Garchomp at level 48.",58,70,45,40,45,42,5.88%,"Land, Excavation, Bosses",Dragon, Ground,Sand Veil, Rough Skin,
+Giratina,,150,100,120,100,120,90,0.39%,None,Ghost, Dragon,Pressure, Telepathy,
+Glaceon,Glaceon is an Ice type Pokémon and one of the 8 evolutions of Eevee. It evolves from Eevee after leveling up in either Route 217 or the Low Tide Rooms of Shoal Cave.,65,60,110,130,95,65,5.88%,None,Ice,,Snow Cloak, Ice Body,
+Glameow,It evolves into Purugly upon reaching level 38.,49,55,42,42,37,85,24.84%,Land,Normal,,Limber, Own Tempo, Keen Eye
+Gliscor,Gliscor is a Ground and Flying type Pokémon. It evolves from Gligar when leveled up while holding a Razor Fang during nighttime.,75,95,125,45,75,95,3.92%,None,Ground, Flying,Hyper Cutter, Sand Veil, Poison Heal
+Grotle,"Grotle is a Grass-type Pokémon. Having evolved from Turtwig at level 18, it evolves into Torterra at level 32.",75,89,85,55,65,36,5.88%,None,Grass,,Overgrow, Shell Armor,
+Happiny,"It evolves into Chansey when leveled up while holding an Oval Stone during the day-time; thereafter, it will evolve into Blissey when leveled up with maximal happiness.",100,5,5,15,65,30,16.99%,"Wild, Kanto Daycare",Normal,,Natural Cure, Serene Grace, Friend Guard
+Heatran,,91,90,106,130,106,77,0.39%,None,Fire, Steel,Flash Fire, Flame Body,
+Hippopotas,It evolves into Hippowdon upon reaching level 34.,68,72,78,38,42,32,18.3%,"Land, Dig Spots",Ground,,Sand Stream, Sand Force,
+Hippowdon,It evolves from Hippopotas starting at level 34.,108,112,118,68,72,47,7.84%,None,Ground,,Sand Stream, Sand Force,
+Honchkrow,Honchkrow is a Dark and Flying-type Pokémon. Having evolved from Murkrow via Dusk Stone.,100,125,52,105,52,71,3.92%,None,Dark, Flying,Insomnia, Super Luck, Moxie
+Infernape,"Infernape is a Fire and Fighting-type Pokémon. Having evolved from Monferno at level 36, it is the final evolutionary stage of Chimchar.",76,104,71,104,71,108,5.88%,None,Fire, Fighting,Blaze, Iron Fist,
+Kricketot,It evolves into Kricketune upon reaching level 10.,37,25,41,25,41,25,33.33%,"Land, Headbutt Trees",Bug,,Shed Skin, Run Away,
+Kricketune,It evolves from Kricketot upon reaching level 10.,77,85,51,55,51,65,5.88%,Land,Bug,,Swarm, Technician,
+Leafeon,Leafeon is a Grass type Pokémon and one of the 8 evolutions of Eevee. It evolves from Eevee after leveling up in either Petalburg Woods or Eterna Forest.,65,110,130,60,65,95,5.88%,None,Grass,,Leaf Guard, Chlorophyll,
+Lickilicky,"It is the only evolutionary outlet of Lickitung, having evolved from it when leveled up while knowing Rollout.",110,85,95,80,95,50,3.92%,Wild,Normal,,Own Tempo, Oblivious, Cloud Nine
+Lopunny,Lopunny is a Normal-type Pokémon. Having evolved from Buneary with Max. Happiness.,65,76,84,54,96,105,7.84%,None,Normal,,Cute Charm, Klutz, Limber
+Lucario,"Lucario is a Fighting and Steel type Pokémon. 
+It can Mega Evolve into Mega Lucario using the Lucarionite. 
+
+It evolves from Riolu when leveled up with maximum Happiness(255) during daytime.",70,110,70,115,70,90,5.88%,Birth Island,Fighting, Steel,Steadfast, Inner Focus, Justified
+Lumineon,"It is the only evolutionary outlet of Finneon, having evolved from it as early as level 31.",69,69,76,69,86,91,9.8%,Surfing,Water,,Swift Swim, Storm Drain, Water Veil
+Luxio,It evolves from Shinx upon reaching level 15 and evolves into Luxray starting at level 30.,60,85,49,60,49,60,15.69%,Land,Electric,,Rivalry, Intimidate, Guts
+Luxray,Having evolved from Luxio at level 30.,80,120,79,95,79,70,5.88%,None,Electric,,Rivalry, Intimidate, Guts
+Magmortar,"Magmortar is the evolved form of Magmar, which evolves when traded while holding a Magmarizer.",75,95,67,125,95,83,3.92%,None,Fire,,Flame Body, Vital Spirit,
+Magnezone,"Having evolved from Magneton when leveled up inside either the Power Plant, Mt. Coronet, or New Mauville, it is the final stage in Magnemite's evolutionary line.",70,70,115,130,90,60,3.92%,None,Electric, Steel,Magnet Pull, Sturdy, Analytic
+Mamoswine,It evolves from Piloswine after leveling up while knowing Ancient Power.,110,130,80,70,60,80,6.54%,Land,Ice, Ground,Oblivious, Snow Cloak, Thick Fat
+Manaphy,,100,100,100,100,100,100,0.39%,None,Water,,Hydration,,
+Mantyke,It evolves into Mantine when leveled up with a Remoraid in your party.,45,20,50,60,120,50,3.27%,"Surfing, Fishing, Excavation",Water, Flying,Swift Swim, Water Absorb, Water Veil
+Mesprit,,80,105,105,105,105,80,0.39%,None,Psychic,,Levitate,,
+Mime Jr.,It evolves into Mr. Mime when leveled up while knowing Mimic.,20,25,45,70,90,60,18.95%,"Land, Bosses",Psychic, Fairy,Soundproof, Filter, Technician
+Mismagius,Mismagius is a Ghost-type Pokémon. Having evolved from Misdreavus via Dusk Stone.,60,60,60,105,105,105,5.88%,None,Ghost,,Levitate,,
+Monferno,"Monferno is a Fire and Fighting-type Pokémon. Having evolved from Chimchar at level 14, it evolves into Infernape at level 36.",64,78,52,78,52,81,5.88%,None,Fire, Fighting,Blaze, Iron Fist,
+Mothim,Mothim is a Bug and Flying-type Pokémon. Having evolved from male Burmy at level 20.,70,94,50,94,50,66,5.88%,Wild,Bug, Flying,Swarm, Tinted Lens,
+Munchlax,It evolves into Snorlax when leveled up with maximum Happiness(255).,135,85,40,40,85,5,6.54%,"Land, Headbutt Trees, Bosses",Normal,,Pickup, Thick Fat, Gluttony
+Pachirisu,,60,45,70,45,90,95,26.14%,"Land, Headbutt Trees",Electric,,Run Away, Pickup, Volt Absorb
+Palkia,,90,120,100,150,120,100,0.39%,None,Water, Dragon,Pressure, Telepathy,
+Phione,,80,80,80,80,80,80,3.92%,None,Water,,Hydration,,
+Piplup,"It evolves into Prinplup upon reaching level 16, which then evolves into Empoleon at level 36. It is the Water type starter of Sinnoh.",53,51,53,61,56,40,5.88%,"Land, Surfing, Headbutt Trees, Excavation, Bosses",Water,,Torrent, Defiant,
+Porygon-Z,It evolves from Porygon2 when traded while holding a Dubious Disc.,85,80,70,135,75,90,3.92%,None,Normal,,Adaptability, Download, Analytic
+Prinplup,"Prinplup is a Water-type Pokémon. Having evolved from Piplup at level 16, it evolves into Empoleon at level 36.",64,66,68,81,76,50,5.88%,None,Water,,Torrent, Defiant,
+Probopass,"It evolves from Nosepass when leveled up in a Magnetic Field. Those being Power Plant, New Mauville, Mt. Coronet Center, Mt. Coronet North and Mt. Coronet South.",60,55,145,75,150,40,7.84%,None,Rock, Steel,Sturdy, Magnet Pull, Sand Force
+Purugly,Purugly is a Normal-type Pokémon. Having evolved from Glameow at level 38.,71,82,64,64,59,112,9.8%,Land,Normal,,Thick Fat, Own Tempo, Defiant
+Rampardos,Rampardos is a Rock-type Pokémon. Having evolved from Cranidos at level 30.,97,165,60,65,50,58,5.88%,None,Rock,,Mold Breaker, Sheer Force,
+Regigigas,,110,160,110,80,110,100,0.39%,None,Normal,,Slow Start,,
+Rhyperior,"Having evolved from Rhydon when traded while holding a Protector, it is the final stage in Rhyhorn's evolutionary line.",115,140,130,55,55,40,3.92%,None,Ground, Rock,Lightning Rod, Solid Rock, Reckless
+Riolu,It evolves into Lucario when leveled up with maximal happiness (255) during daytime.,40,70,40,35,40,60,9.8%,"Land, Excavation, Bosses",Fighting,,Steadfast, Inner Focus, Prankster
+Roserade,Roserade is a Grass and Poison type Pokémon. It evolves from Roselia when exposed to a Shiny Stone.,60,70,65,125,105,90,9.8%,None,Grass, Poison,Natural Cure, Poison Point, Technician
+Rotom,,50,50,77,95,77,91,5.88%,"Excavation, Mt. Coronet Summit, Honey Tree, Bosses, Ghoul Swamp",Electric, Ghost,Levitate,,
+Shaymin,,100,100,100,100,100,100,5.88%,None,Grass,,Natural Cure,,
+Shellos,It evolves into Gastrodon upon reaching level 30.,76,48,48,57,62,34,24.84%,"Land, Surfing, Bosses, Excavation",Water,,Sticky Hold, Storm Drain, Sand Force
+Shieldon,It evolves into Bastiodon upon reaching level 30.,30,42,118,42,88,30,5.88%,"Land, Armor Fossil",Rock, Steel,Sturdy, Soundproof,
+Shinx,"It evolves into Luxio upon reaching level 15, which then evolves into Luxray at level 30.",46,65,34,40,34,45,30.72%,"Land, Headbutt Trees, Bosses",Electric,,Rivalry, Intimidate, Guts
+Skorupi,It evolves into Drapion upon reaching level 40.,40,50,90,30,55,65,15.69%,Wild,Poison, Bug,Battle Armor, Sniper, Keen Eye
+Skuntank,Skuntank is a Poison and Dark-type Pokémon. Having evolved from Stunky at level 34.,103,93,67,71,61,84,7.84%,Wild,Poison, Dark,Stench, Aftermath, Keen Eye
+Snover,It evolves into Abomasnow upon reaching level 40.,60,62,50,62,60,40,15.69%,"Land, Bosses",Grass, Ice,Snow Warning, Soundproof,
+Spiritomb,,50,92,108,92,108,35,13.07%,Land,Ghost, Dark,Pressure, Infiltrator,
+Staraptor,"Staraptor is a Normal and Flying-type Pokémon. Having evolved from Staravia at level 34, it is the final evolutionary stage of Starly.",85,120,70,50,60,100,5.88%,Wild,Normal, Flying,Intimidate, Reckless,
+Staravia,"Staravia is a Normal and Flying-type Pokémon. Having evolved from Starly at level 14, it evolves into Staraptor at level 34.",55,75,50,40,40,80,15.69%,Wild,Normal, Flying,Intimidate, Reckless,
+Starly,"It evolves into Staravia upon reaching level 14, which then evolves into Staraptor at level 34.",40,55,30,30,30,60,33.33%,"Land, Headbutt Trees, Bosses",Normal, Flying,Keen Eye, Reckless,
+Stunky,It evolves into Skuntank upon reaching level 34.,63,63,47,41,41,74,29.41%,Land,Poison, Dark,Stench, Aftermath, Keen Eye
+Tangrowth,"It is the only evolutionary outlet of Tangela, having evolved from it as soon as it's leveled up while knowing Ancient Power.",100,100,125,110,50,50,3.92%,None,Grass,,Chlorophyll, Leaf Guard, Regenerator
+Togekiss,It evolves from Togetic when exposed to a Shiny Stone.,85,50,95,120,115,80,3.92%,None,Fairy, Flying,Hustle, Serene Grace, Super Luck
+Torterra,"Torterra is a Grass and Ground-type Pokémon. Having evolved from Grotle at level 32, it is the final evolutionary stage of Turtwig.",95,109,150,75,85,56,5.88%,None,Grass, Ground,Overgrow, Shell Armor,
+Toxicroak,It evolves from Croagunk starting at level 37.,83,106,65,86,65,85,9.8%,None,Poison, Fighting,Anticipation, Dry Skin, Poison Touch
+Turtwig,"It evolves into Grotle upon reaching level 18, which then evolves into Torterra at level 32. It is the Grass type starter of Sinnoh.",55,68,64,45,55,31,5.88%,"Land, Headbutt Trees, Bosses",Grass,,Overgrow, Shell Armor,
+Uxie,,75,75,130,75,130,95,0.39%,None,Psychic,,Levitate,,
+Vespiquen,Vespiquen is a Bug and Flying-type Pokémon. Having evolved from female Combee at level 21.,70,80,102,80,102,40,5.88%,Wild,Bug, Flying,Pressure, Unnerve,
+Weavile,It evolves from Sneasel when leveled up during nighttime while holding a Razor Claw.,70,120,65,45,85,125,5.88%,Land,Dark, Ice,Pressure, Pickpocket,
+Wormadam-Plant,It evolves from a female Burmy starting at level 20.,60,59,85,79,105,36,5.88%,Land,Bug, Grass,Anticipation, Overcoat,
+Yanmega,It evolves from Yanma after leveling up while knowing Ancient Power.,86,76,86,116,56,95,3.92%,None,Bug, Flying,Speed Boost, Tinted Lens, Frisk
+Accelgor,Having it evolved from Shelmet when traded with a Karrablast.,80,70,40,100,60,145,9.8%,None,Bug,,Hydration, Sticky Hold, Unburden
+Alomomola,,165,75,80,40,45,65,9.8%,"Surfing, Fishing, Excavation",Water,,Healer, Hydration, Regenerator
+Amoonguss,It evolves from Foongus upon reaching level 39.,114,85,70,85,80,30,9.8%,None,Grass, Poison,Effect Spore, Regenerator,
+Archen,It evolves into Archeops upon reaching level 37.,55,112,45,74,45,70,5.88%,Land,Rock, Flying,Defeatist,,
+Archeops,It evolves from Archen starting at level 37.,75,140,65,112,65,110,5.88%,None,Rock, Flying,Defeatist,,
+Audino,Audino is a Normal type Pokémon. It gains the Fairy type when it Mega evolves.,103,60,86,60,86,50,33.33%,"Land, Bosses",Normal,,Healer, Regenerator, Klutz
+Axew,"It evolves into Fraxure upon reaching level 38, which then evolves into Haxorus at level 48.",46,87,60,30,40,57,9.8%,"Land, Bosses",Dragon,,Rivalry, Mold Breaker, Unnerve
+Basculin,,70,92,65,80,55,98,3.27%,"Surfing, Fishing",Water,,Reckless, Adaptability, Mold Breaker
+Beartic,Having evolved from Cubchoo upon reaching level 37.,95,110,80,70,80,50,7.84%,Land,Ice,,Snow Cloak, Slush Rush, Swift Swim
+Beheeyem,Having it evolved from Elgyem upon reaching level 42.,75,75,75,125,95,40,11.76%,None,Psychic,,Telepathy, Synchronize, Analytic
+Bisharp,Having it evolved from Pawniard upon reaching level 52.,65,125,100,60,70,70,5.88%,None,Dark, Steel,Defiant, Inner Focus, Pressure
+Blitzle,It evolves into Zebstrika upon reaching level 27.,45,60,32,50,32,76,24.84%,"Land, Bosses",Electric,,Lightning Rod, Motor Drive, Sap Sipper
+Boldore,It evolves from Roggenrola upon reaching level 25 and then evolves into Gigalith when traded.,70,105,105,50,40,20,15.69%,None,Rock,,Sturdy, Weak Armor, Sand Force
+Bouffalant,,95,110,95,40,95,55,5.88%,Land,Normal,,Reckless, Sap Sipper, Soundproof
+Braviary,Having it evolved from Rufflet upon reaching level 54.,100,123,75,57,75,80,7.84%,None,Normal, Flying,Keen Eye, Sheer Force, Defiant
+Carracosta,It evolves from Tirtouga starting at level 37.,74,108,133,83,65,32,5.88%,None,Water, Rock,Solid Rock, Sturdy, Swift Swim
+Chandelure,Having it evolved from Lampent when exposed to a Dusk Stone.,60,55,90,145,90,80,5.88%,None,Ghost, Fire,Flash Fire, Flame Body, Infiltrator
+Cinccino,It evolves from Minccino when exposed to a Shiny Stone.,75,95,60,65,60,115,7.84%,None,Normal,,Cute Charm, Technician, Skill Link
+Cobalion,,91,90,129,90,72,108,0.39%,None,Steel, Fighting,Justified,,
+Cofagrigus,It evolves from Yamask starting at level 34.,58,50,145,95,105,30,11.76%,None,Ghost,,Mummy,,
+Conkeldurr,It evolves from Gurdurr when it has been traded.,105,140,95,55,65,45,5.88%,None,Fighting,,Guts, Sheer Force, Iron Fist
+Cottonee,It evolves into Whimsicott when exposed to a Sun Stone.,40,27,60,37,50,66,24.84%,Land,Grass, Fairy,Prankster, Infiltrator, Chlorophyll
+Crustle,It evolves from Dwebble starting at level 34.,70,95,125,65,75,45,9.8%,None,Bug, Rock,Sturdy, Shell Armor, Weak Armor
+Cryogonal,,70,50,30,95,135,105,3.27%,Surfing,Ice,,Levitate,,
+Cubchoo,It evolves into Beartic upon reaching level 37.,55,70,40,60,40,40,15.69%,Land,Ice,,Snow Cloak, Slush Rush, Rattled
+Darmanitan,It evolves from Darumaka starting at level 35.,105,140,55,30,55,95,7.84%,None,Fire,,Sheer Force, Zen Mode,
+Darumaka,It evolves into Darmanitan upon reaching level 35.,70,90,45,15,45,50,15.69%,"Land, Excavation, Bosses",Fire,,Hustle, Inner Focus,
+Deerling,It evolves into Sawsbuck upon reaching level 34.,60,60,50,40,50,75,24.84%,Land,Normal, Grass,Chlorophyll, Sap Sipper, Serene Grace
+Deino,"It evolves into Zweilous upon reaching level 50, which then evolves into Hydreigon at level 64.",52,65,50,45,50,38,5.88%,"Land, Excavation, Bosses",Dark, Dragon,Hustle,,
+Dewott,It evolves from Oshawott starting at level 16 and then evolves into Samurott upon reaching level 36.,75,75,60,83,60,60,5.88%,Land,Water,,Torrent, Shell Armor,
+Drilbur,It evolves into Excadrill upon reaching level 31.,60,85,40,30,45,68,15.69%,"Land, Excavation, Bosses, Dig Spots",Ground,,Sand Rush, Sand Force, Mold Breaker
+Druddigon,,77,120,90,60,90,48,5.88%,Bosses,Dragon,,Rough Skin, Sheer Force, Mold Breaker
+Ducklett,It evolves into Swanna upon reaching level 35.,62,44,50,44,50,55,24.84%,"Land, Surfing",Water, Flying,Keen Eye, Big Pecks, Hydration
+Duosion,It evolves from Solosis upon reaching level 32 and then evolves into Reuniclus upon reaching level 41.,65,40,50,125,60,30,13.07%,None,Psychic,,Overcoat, Magic Guard, Regenerator
+Durant,,58,109,112,48,48,109,11.76%,"Land, Headbutt Trees",Bug, Steel,Swarm, Hustle, Truant
+Dwebble,It evolves into Crustle upon reaching level 34.,50,65,85,35,35,55,24.84%,Land,Bug, Rock,Sturdy, Shell Armor, Weak Armor
+Eelektrik,"Having it evolved from Tynamo upon reaching level 39, which then evolves into Eelektross when exposed to a Thunder Stone.",65,85,70,75,70,40,7.84%,None,Electric,,Levitate,,
+Eelektross,Having it evolved from Eelektrik when exposed to a Thunder Stone.,85,115,80,105,80,50,3.92%,"Level Up, Egg Moves, Pre-Evolution Moves, TMs and HMs, TM-tutors, Move Tutors",Electric,,Levitate,,
+Elgyem,It evolves into Beheeyem upon reaching level 42.,55,55,55,85,55,30,33.33%,"Land, Bosses",Psychic,,Telepathy, Synchronize, Analytic
+Emboar,It evolves from Pignite starting at level 36.,110,123,65,100,65,65,5.88%,None,Fire, Fighting,Blaze, Reckless,
+Emolga,,55,75,60,75,60,103,26.14%,"Land, Bosses",Electric, Flying,Static, Motor Drive,
+Escavalier,It evolves from Karrablast when traded with a Shelmet.,70,135,105,60,105,20,9.8%,None,Bug, Steel,Swarm, Shell Armor, Overcoat
+Excadrill,It evolves from Drilbur starting at level 31.,110,135,60,50,65,88,7.84%,None,Ground, Steel,Sand Rush, Sand Force, Mold Breaker
+Ferroseed,It evolves into Ferrothorn upon reaching level 40.,44,50,91,24,86,10,33.33%,"Land, Excavation, Bosses, Miscellaneous",Grass, Steel,Iron Barbs,,
+Ferrothorn,It evolves from Ferroseed upon reaching level 40.,74,94,131,54,116,20,11.76%,None,Grass, Steel,Iron Barbs, Anticipation,
+Foongus,It evolves into Amoonguss upon reaching level 39.,69,55,45,55,55,15,24.84%,"Land, Bosses",Grass, Poison,Effect Spore, Regenerator,
+Fraxure,"Having it evolved from Axew upon reaching level 38, and evolves into Haxorus at level 48.",66,117,70,40,50,67,7.84%,None,Dragon,,Rivalry, Mold Breaker, Unnerve
+Frillish,It evolves into Jellicent upon reaching level 40.,55,40,50,65,85,40,24.84%,"Surfing, Fishing, Bosses",Water, Ghost,Cursed Body, Water Absorb, Damp
+Galvantula,It evolves from Joltik upon reaching level 36.,70,77,60,97,60,108,9.8%,None,Bug, Electric,Compound Eyes, Unnerve, Swarm
+Garbodor,It evolves from Trubbish starting at level 36.,80,95,82,60,82,75,7.84%,None,Poison,,Stench, Weak Armor, Aftermath
+Genesect,,71,120,95,120,95,99,0.39%,None,Bug, Steel,Download,,
+Gigalith,It evolves from Boldore when traded.,85,135,130,60,80,25,5.88%,Land,Rock,,Sturdy, Sand Stream, Sand Force
+Golett,It evolves into Golurk upon reaching level 43.,59,74,50,35,50,35,24.84%,Land,Ground, Ghost,Iron Fist, Klutz, No Guard
+Golurk,Having it evolved from Golett upon reaching level 43.,89,124,80,55,80,55,11.76%,None,Ground, Ghost,Iron Fist, Klutz, No Guard
+Gothita,"It evolves into Gothorita upon reaching level 32, which then evolves into Gothitelle at level 41.",45,30,50,55,65,45,26.14%,Land,Psychic,,Frisk, Competitive, Shadow Tag
+Gothitelle,It evolves from Gothorita upon it reaching level 41.,70,55,95,95,110,65,6.54%,None,Psychic,,Frisk, Competitive, Shadow Tag
+Gothorita,It evolves from Gothita at level 32 and evolves into Gothitelle upon reaching level 41.,60,45,70,75,85,55,13.07%,None,Psychic,,Frisk, Competitive, Shadow Tag
+Gurdurr,It evolves from Timburr starting at level 25 and then evolves into Conkeldurr when traded.,85,105,85,40,50,40,11.76%,None,Fighting,,Guts, Sheer Force, Iron Fist
+Haxorus,Having it evolved from Fraxure upon reaching level 48,76,147,90,60,70,97,5.88%,None,Dragon,,Rivalry, Mold Breaker, Unnerve
+Heatmor,,85,97,66,105,66,65,11.76%,Land,Fire,,Gluttony, Flash Fire, White Smoke
+Herdier,It evolves from Lillipup starting at level 16 and then evolves into Stoutland upon reaching level 32.,65,80,65,35,65,60,15.69%,None,Normal,,Intimidate, Sand Rush, Scrappy
+Hydreigon,Having it evolved from Zweilous upon reaching level 64.,92,105,90,125,90,80,5.88%,None,Dark, Dragon,Levitate,,
+Jellicent,It evolves from Frillish upon reaching level 40.,100,60,70,85,105,60,7.84%,None,Water, Ghost,Cursed Body, Water Absorb, Damp
+Joltik,It evolves into Galvantula upon reaching level 36.,50,47,50,57,50,65,24.84%,"Land, Headbutt Trees",Bug, Electric,Compound Eyes, Unnerve, Swarm
+Karrablast,It evolves into Escavalier when traded with a Shelmet. One player must trade Karrablast and the other must trade Shelmet.,50,75,45,40,45,60,26.14%,"Land, Excavation",Bug,,Swarm, Shed Skin, No Guard
+Keldeo,,91,72,90,129,90,108,0.39%,None,Water, Fighting,Justified,,
+Klang,It evolves from Klink upon reaching level 38 and then evolves into Klinklang upon reaching level 49.,60,80,95,70,85,50,7.84%,None,Steel,,Plus, Minus, Clear Body
+Klink,It evolves into Klang upon reaching level 38.,40,55,70,45,60,30,16.99%,"Land, Bosses",Steel,,Plus, Minus, Clear Body
+Klinklang,It evolves from Klang upon reaching level 49.,60,100,115,70,85,90,3.92%,None,Steel,,Plus, Minus, Clear Body
+Krokorok,It evolves from Sandile starting at level 29 and evolves into Krookodile upon reaching level 40.,60,82,45,45,45,74,11.76%,None,Ground, Dark,Intimidate, Moxie, Anger Point
+Krookodile,It evolves from Krokorok starting at level,95,117,80,65,70,92,5.88%,None,Ground, Dark,Intimidate, Moxie, Anger Point
+Kyurem,,125,130,90,130,90,95,0.39%,None,Dragon, Ice,Pressure,,
+Lampent,"Having it evolved from Litwick upon reaching level 41, which then evolves into Chandelure when exposed to a Dusk Stone.",60,40,60,95,60,55,11.76%,None,Ghost, Fire,Flash Fire, Flame Body, Infiltrator
+Landorus,,89,125,90,115,80,101,0.39%,None,Ground, Flying,Sand Force, Sheer Force,
+Larvesta,It evolves into Volcarona upon reaching level 59.,55,85,55,50,55,60,5.88%,"Land, Bosses",Bug, Fire,Flame Body, Swarm,
+Leavanny,It evolves from Swadloon when leveled up with maximum happiness.,75,103,80,70,80,92,5.88%,None,Bug, Grass,Swarm, Chlorophyll, Overcoat
+Liepard,It evolves from Purrloin starting at level 20.,64,88,50,88,50,106,11.76%,None,Dark,,Limber, Unburden, Prankster
+Lilligant,It evolves from Petilil when exposed to a Sun Stone.,70,60,75,110,75,90,9.8%,None,Grass,,Chlorophyll, Own Tempo, Leaf Guard
+Lillipup,"It evolves into Herdier upon reaching level 16, which then evolves into Stoutland at level 32.",45,60,45,25,45,55,33.33%,"Land, Bosses",Normal,,Vital Spirit, Pickup, Run Away
+Litwick,"It evolves into Lampent upon reaching level 41, which then evolves into Chandelure when exposed to a Dusk Stone.",50,30,55,65,55,20,24.84%,"Land, Bosses",Ghost, Fire,Flash Fire, Flame Body, Infiltrator
+Mandibuzz,,110,65,105,55,95,80,7.84%,None,Dark, Flying,Big Pecks, Overcoat, Weak Armor
+Maractus,,75,86,67,106,67,60,33.33%,Land,Grass,,Water Absorb, Chlorophyll, Storm Drain
+Meloetta,,100,77,77,128,128,90,0.39%,None,Normal, Psychic,Serene Grace,,
+Mienfoo,It evolves into Mienshao upon reaching level 50.,45,85,50,55,50,65,23.53%,"Land, Bosses",Fighting,,Inner Focus, Regenerator, Reckless
+Mienshao,Having it evolved from Mienfoo upon reaching level 50.,65,125,60,95,60,105,5.88%,None,Fighting,,Inner Focus, Regenerator, Reckless
+Minccino,It evolves into Cinccino when exposed to a Shiny Stone.,55,50,40,40,40,75,33.33%,"Land, Bosses",Normal,,Cute Charm, Technician, Skill Link
+Munna,It evolves into Musharna when exposed to a Moon Stone.,76,25,45,67,55,24,24.84%,Land,Psychic,,Forewarn, Synchronize, Telepathy
+Musharna,It evolves from Munna when exposed to a Moon Stone.,116,55,85,107,95,29,9.8%,None,Psychic,,Forewarn, Synchronize, Telepathy
+Oshawott,"It evolves into Dewott upon reaching level 17, which then evolves into Samurott at level 36. It is the Water type starter of Unova.",55,55,45,63,45,45,5.88%,"Surfing, Bosses",Water,,Torrent, Shell Armor,
+Palpitoad,It evolves from Tympole starting at level 25 and then evolves into Seismitoad upon reaching level 36.,75,65,55,65,55,69,15.69%,Land,Water, Ground,Swift Swim, Hydration, Water Absorb
+Panpour,It evolves into Simipour when exposed to a Water Stone.,50,53,48,53,48,64,24.84%,"Land, Headbutt Trees",Water,,Gluttony, Torrent,
+Pansage,It evolves into Simisage when exposed to a Leaf Stone.,50,53,48,53,48,64,24.84%,"Land, Headbutt Trees",Grass,,Gluttony, Overgrow,
+Pansear,It evolves into Simisear when exposed to a Fire Stone.,50,53,48,53,48,64,24.84%,"Land, Headbutt Trees",Fire,,Gluttony, Blaze,
+Patrat,It evolves into Watchog upon reaching level 20.,45,55,39,35,39,42,33.33%,Land,Normal,,Run Away, Keen Eye, Analytic
+Pawniard,It evolves into Bisharp upon reaching level 52.,45,85,70,40,40,60,15.69%,"Land, Excavation, Bosses",Dark, Steel,Defiant, Inner Focus, Pressure
+Petilil,It evolves into Lilligant when exposed to a Sun Stone.,45,35,50,70,50,30,24.84%,"Land, Headbutt Trees, Bosses",Grass,,Chlorophyll, Own Tempo, Leaf Guard
+Pidove,"It evolves into Tranquill upon reaching level 21, which then evolves into Unfezant at level 32.",50,55,50,36,30,43,33.33%,Land,Normal, Flying,Big Pecks, Super Luck, Rivalry
+Pignite,It evolves from Tepig starting at level 17 and then evolves into Emboar upon reaching level 36.,90,93,55,70,55,55,5.88%,Land,Fire, Fighting,Blaze, Thick Fat,
+Purrloin,It evolves into Liepard upon reaching level 20.,41,50,37,50,37,66,33.33%,"Land, Bosses",Dark,,Limber, Unburden, Prankster
+Reshiram,,100,120,100,150,120,90,0.39%,None,Dragon, Fire,Turboblaze,,
+Reuniclus,It evolves from Duosion upon reaching level 41.,110,65,75,125,85,30,6.54%,None,Psychic,,Overcoat, Magic Guard, Regenerator
+Roggenrola,"It evolves into Boldore upon reaching level 25, which then evolves into Gigalith when traded.",55,75,85,25,25,15,33.33%,"Land, Dig Spots",Rock,,Sturdy, Weak Armor, Sand Force
+Rufflet,It evolves into Braviary upon reaching level 54.,70,83,50,37,50,60,24.84%,Land,Normal, Flying,Keen Eye, Sheer Force, Hustle
+Samurott,It evolves from Dewott starting at level 36.,95,100,85,108,70,70,5.88%,None,Water,,Torrent, Shell Armor,
+Sandile,"It evolves into Krokorok upon reaching level 29, which then evolves into Krookodile at level 40.",50,72,35,35,35,65,23.53%,Land,Ground, Dark,Intimidate, Moxie, Anger Point
+Sawk,,75,125,75,30,75,85,5.88%,"Land, Bosses",Fighting,,Sturdy, Inner Focus, Mold Breaker
+Sawsbuck,It evolves from Deerling upon reaching level 34.,80,100,70,60,70,95,9.8%,None,Normal, Grass,Chlorophyll, Sap Sipper, Serene Grace
+Scolipede,It evolves from Whirlipede starting at level 30.,60,100,89,55,69,112,5.88%,None,Bug, Poison,Poison Point, Swarm, Speed Boost
+Scrafty,It evolves from Scraggy starting at level 39.,65,90,115,45,115,58,11.76%,None,Dark, Fighting,Shed Skin, Moxie, Intimidate
+Scraggy,It evolves into Scrafty upon reaching level 39.,50,75,70,35,70,48,23.53%,"Land, Excavation, Bosses",Dark, Fighting,Shed Skin, Moxie, Intimidate
+Seismitoad,It evolves from Palpitoad starting at level 36.,105,95,75,85,75,74,5.88%,None,Water, Ground,Swift Swim, Poison Touch, Water Absorb
+Serperior,It evolves from Servine starting at level 36.,75,75,95,75,95,113,5.88%,None,Grass,,Overgrow, Contrary,
+Servine,It evolves from Snivy starting at level 17 and then evolves into Serperior upon reaching level 36.,60,60,75,60,75,83,5.88%,None,Grass,,Overgrow, Contrary,
+Sewaddle,"It evolves into Swadloon upon reaching level 20, which then evolves into Leavanny when leveled up with maximum happiness (255).",45,53,70,40,60,42,33.33%,"Land, Headbutt Trees",Bug, Grass,Swarm, Chlorophyll, Overcoat
+Shelmet,It evolves into Accelgor when traded with a Karrablast.,50,40,85,40,65,25,26.14%,Land,Bug,,Hydration, Shell Armor, Overcoat
+Sigilyph,,72,58,80,103,80,97,5.88%,"Land, Excavation, Bosses",Psychic, Flying,Wonder Skin, Magic Guard, Tinted Lens
+Simipour,It evolves from Panpour when exposed to a Water Stone.,75,98,63,98,63,101,9.8%,None,Water,,Gluttony, Torrent,
+Simisage,It evolves from Pansage when exposed to a Leaf Stone.,75,98,63,98,63,101,9.8%,None,Grass,,Gluttony, Overgrow,
+Simisear,It evolves from Pansear when exposed to a Fire Stone.,75,98,63,98,63,101,9.8%,None,Fire,,Gluttony, Blaze,
+Snivy,"It evolves into Servine upon reaching level 17, which then evolves into Serperior when it reaches level 36.",45,45,55,45,55,63,5.88%,"Land, Bosses",Grass,,Overgrow, Contrary,
+Solosis,"It evolves into Duosion upon reaching level 32, which then evolves into Reuniclus at level 41.",45,30,40,105,50,20,26.14%,"Land, Bosses",Psychic,,Overcoat, Magic Guard, Regenerator
+Stoutland,It evolves from Herdier starting at level 32.,85,110,90,45,90,80,5.88%,None,Normal,,Intimidate, Sand Rush, Scrappy
+Stunfisk,,109,66,84,81,99,32,9.8%,"Land, Dig Spots",Ground, Electric,Static, Limber, Sand Veil
+Swadloon,It evolves from Sewaddle starting at level 20 and then evolves into Leavanny when leveled up with maximum happiness.,55,63,90,50,80,42,15.69%,None,Bug, Grass,Leaf Guard, Chlorophyll, Overcoat
+Swanna,It evolves from Ducklett upon reaching level 35.,75,87,63,87,63,98,5.88%,None,Water, Flying,Keen Eye, Big Pecks, Hydration
+Swoobat,It evolves from Woobat when leveled up with maximum happiness.,67,57,55,77,55,114,5.88%,None,Psychic, Flying,Unaware, Klutz, Simple
+Tepig,"It evolves into Pignite upon reaching level 17, which then evolves into Emboar when it reaches level 36.",65,63,45,45,45,45,5.88%,"Land, Bosses",Fire,,Blaze, Thick Fat,
+Terrakion,,91,129,90,72,90,108,0.39%,None,Rock, Fighting,Justified,,
+Throh,,120,100,85,30,85,45,5.88%,"Land, Bosses",Fighting,,Guts, Inner Focus, Mold Breaker
+Thundurus,,79,115,70,125,80,111,0.39%,None,Electric, Flying,Prankster, Defiant,
+Timburr,"It evolves into Gurdurr upon reaching level 25, which then evolves into Conkeldurr when traded.",75,80,55,25,35,35,23.53%,"Land, Bosses",Fighting,,Guts, Sheer Force, Iron Fist
+Tirtouga,It evolves into Carracosta upon reaching level 37.,54,78,103,53,45,22,5.88%,Surfing,Water, Rock,Solid Rock, Sturdy, Swift Swim
+Tornadus,,79,115,70,125,80,111,0.39%,None,Flying,,Prankster, Defiant,
+Tranquill,It evolves from Pidove starting at level and then evolves into Unfezant upon reaching level 32.,62,77,62,50,42,65,15.69%,None,Normal, Flying,Big Pecks, Super Luck, Rivalry
+Trubbish,It evolves into Garbodor upon reaching level 36.,50,50,62,40,62,65,24.84%,Land,Poison,,Stench, Sticky Hold, Aftermath
+Tympole,"It evolves into Palpitoad upon reaching level 25, which then evolves into Seismitoad at level 36.",50,50,40,50,40,64,7.71%,"Land, Surfing, Bosses",Water,,Swift Swim, Hydration, Water Absorb
+Tynamo,"It evolves into Eelektrik upon reaching level 39, which then evolves into Eelektross when exposed to a Thunder Stone.",35,55,40,45,40,60,24.84%,"Land, Surfing, Bosses",Electric,,Levitate,,
+Unfezant,It evolves from Tranquill starting at level 32.,80,115,80,65,55,93,5.88%,None,Normal, Flying,Big Pecks, Super Luck, Rivalry
+Vanillish,It evolves from Vanillite upon reaching level 35 and then evolves into Vanilluxe upon reaching level 37.,51,65,65,80,75,59,15.69%,None,Ice,,Ice Body, Snow Cloak, Weak Armor
+Vanillite,"It evolves into Vanillish upon reaching level 35, which then evolves into Vanilluxe at level 47.",36,50,50,65,60,44,33.33%,"Land, Surfing",Ice,,Ice Body, Snow Cloak, Weak Armor
+Vanilluxe,It evolves from Vanillish upon reaching level 47.,71,95,85,110,95,79,5.88%,None,Ice,,Ice Body, Snow Warning, Weak Armor
+Venipede,"It evolves into Whirlipede upon reaching level 22, which then evolves into Scolipede when it reaches level 30.",30,45,59,30,39,57,33.33%,"Land, Excavation",Bug, Poison,Poison Point, Swarm, Speed Boost
+Victini,,100,100,100,100,100,100,0.39%,None,Psychic, Fire,Victory Star,,
+Virizion,,91,90,72,90,129,108,0.39%,None,Grass, Fighting,Justified,,
+Volcarona,Having it evolved from Larvesta upon reaching level 59.,85,60,65,135,105,100,1.96%,Mysterious Ticket,Bug, Fire,Flame Body, Swarm,
+Vullaby,It evolves into Mandibuzz upon reaching level 54.,70,55,75,45,65,60,24.84%,"Land, Bosses",Dark, Flying,Big Pecks, Overcoat, Weak Armor
+Watchog,It evolves from Patrat starting at level 20.,60,85,69,60,69,77,33.33%,Land,Normal,,Illuminate, Keen Eye, Analytic
+Whimsicott,It evolves from Cottonee when exposed to a Sun Stone.,60,67,85,77,75,116,9.8%,None,Grass, Fairy,Prankster, Infiltrator, Chlorophyll
+Whirlipede,It evolves from Venipede starting at level 22 and evolving into Scolipede upon reaching level 30.,40,55,99,40,79,47,15.69%,Land,Bug, Poison,Poison Point, Swarm, Speed Boost
+Woobat,It evolves into Swoobat when leveled up with maximum Happiness (255).,55,45,43,55,43,72,24.84%,"Land, Headbutt Trees, Bosses",Psychic, Flying,Unaware, Klutz, Simple
+Yamask,It evolves into Cofagrigus upon reaching level 34.,38,30,85,55,65,30,24.84%,"Land, Excavation, Bosses",Ghost,,Mummy,,
+Zebstrika,It evolves from Blitzle starting at level 27.,75,100,63,80,63,116,9.8%,None,Electric,,Lightning Rod, Motor Drive, Sap Sipper
+Zekrom,,100,150,120,120,100,90,0.39%,None,Dragon, Electric,Teravolt,,
+Zoroark,It evolves from Zorua at level 30.,60,105,60,120,60,105,5.88%,Birth Island,Dark,,Illusion,,
+Zorua,It evolves into Zoroark upon reaching level 30.,40,65,40,80,40,65,9.8%,Land,Dark,,Illusion,,
+Zweilous,"Having it evolved from Deino upon reaching level 50, and evolves into Hydreigon at level 64.",72,85,70,65,70,58,5.88%,None,Dark, Dragon,Hustle,,
+Aegislash,Having it evolved from Doublade when exposed to a Dusk Stone. Aegislash is the final evolved form of Honedge. It's unique ability Stance Change (ability) allows it to change to it's Blade form when using a damage-dealing move and change it's stats as well to be offensive focused instead of defensive focused.,60,50,150,50,150,60,5.88%,None,Steel, Ghost,Stance Change,,
+Amaura,It evolves into Aurorus upon reaching level 39 and then leveling up during nighttime.,77,59,50,67,63,46,5.88%,"Land, Bosses, Sail Fossil",Rock, Ice,Refrigerate, Snow Warning,
+Aromatisse,It evolves from Spritzee when traded while holding a Sachet.,101,72,72,99,89,29,18.3%,Land,Fairy,,Healer, Aroma Veil,
+Aurorus,It evolves from Amaura upon reaching level 39 and then being leveled up during nighttime.,123,77,72,99,92,58,5.88%,None,Rock, Ice,Refrigerate, Snow Warning,
+Avalugg,It evolves from Bergmite upon reaching level 37.,95,117,184,44,46,28,7.19%,None,Ice,,Own Tempo, Ice Body, Sturdy
+Barbaracle,It evolves from Binacle upon reaching level 39.,72,105,115,54,86,68,5.88%,None,Rock, Water,Sniper, Tough Claws, Pickpocket
+Bergmite,It evolves into Avalugg upon reaching level 37.,55,69,85,32,35,28,24.84%,"Land, Excavation",Ice,,Own Tempo, Ice Body, Sturdy
+Binacle,It evolves into Barbaracle upon reaching level 39.,42,52,67,39,56,50,15.69%,Surfing,Rock, Water,Sniper, Tough Claws, Pickpocket
+Braixen,It evolves from Fennekin upon reaching level 16 and then evolves into Delphox upon reaching level 36.,59,59,58,90,70,73,5.88%,None,Fire,,Blaze, Magician,
+Bunnelby,It evolves into Diggersby starting at level 20.,38,36,38,32,36,57,33.33%,Wild,Normal,,Pickup, Cheek Pouch, Huge Power
+Carbink,,50,50,150,50,150,50,7.84%,Land,Rock, Fairy,Clear Body, Sturdy,
+Chesnaught,It evolves from Quilladin upon reaching level 36.,88,107,122,74,75,64,5.88%,None,Grass, Fighting,Overgrow, Bulletproof,
+Chespin,It evolves into Quilladin upon reaching level 16.,56,61,65,48,45,38,5.88%,"Land, Bosses",Grass,,Overgrow, Bulletproof,
+Clauncher,It evolves into Clawitzer upon reaching level 37.,50,63,62,58,63,44,29.41%,Fishing,Water,,Mega Launcher,,
+Clawitzer,It evolves from Clauncher when it reaches level 37.,71,73,88,120,89,59,7.19%,Land,Water,,Mega Launcher,,
+Dedenne,,67,58,57,81,67,101,23.53%,"Land, Bosses",Electric, Fairy,Cheek Pouch, Pickup, Plus
+Delphox,It evolves from Braixen upon reaching level 36.,75,69,72,114,100,104,5.88%,None,Fire, Psychic,Blaze, Magician,
+Diancie,,50,100,150,100,150,50,0.39%,None,Rock, Fairy,Clear Body,,
+Diggersby,It evolves from Bunnelby upon reaching level 20.,85,56,77,50,77,78,16.6%,None,Normal, Ground,Pickup, Cheek Pouch, Huge Power
+Doublade,"Having it evolved from Honedge upon reaching level 35, and evolves in Aegislash with a Dusk Stone.",59,110,150,45,49,35,11.76%,None,Steel, Ghost,No Guard,,
+Dragalge,It evolves from Skrelp when it reaches level 48.,65,75,90,97,123,44,7.19%,None,Poison, Dragon,Poison Point, Poison Touch, Adaptability
+Espurr,It evolves into Meowstic upon reaching level 25.,62,48,54,63,60,68,24.84%,Land,Psychic,,Keen Eye, Infiltrator, Own Tempo
+Fennekin,It evolves into Braixen upon reaching level 16.,40,45,40,62,60,60,5.88%,"Land, Bosses",Fire,,Blaze, Magician,
+Flabebe,It evolves into Floette upon reaching level 19.,44,38,39,61,79,42,29.41%,"Land, Surfing, Excavation",Fairy,,Flower Veil, Symbiosis,
+Fletchinder,It evolves from Fletchling upon reaching level 17 then evolves into Talonflame upon reaching level 35.,62,73,55,56,52,84,15.69%,None,Fire, Flying,Flame Body, Gale Wings,
+Fletchling,It evolves into Fletchinder upon reaching level 17.,45,50,43,40,38,62,33.33%,"Land, Bosses",Normal, Flying,Big Pecks, Gale Wings,
+Floette,It evolves from Flabebe upon reaching level 19 and then evolves into Florges when exposed to a Shiny Stone.,54,45,47,75,98,52,15.69%,None,Fairy,,Flower Veil, Symbiosis,
+Florges,It evolves from Floette when exposed to a Shiny Stone.,78,65,68,112,154,75,5.88%,None,Fairy,,Flower Veil, Symbiosis,
+Froakie,"It evolves into Frogadier starting at level 16, which evolves into Greninja starting at level 36.",41,56,40,62,44,71,5.88%,"Surfing, Miscellaneous methods",Water,,Torrent, Protean,
+Frogadier,It evolves from Froakie starting at level 16 and evolves into Greninja starting at level 36.,54,63,52,83,56,97,5.88%,None,Water,,Torrent, Protean,
+Furfrou,,75,80,60,65,90,102,20.92%,"Land, Bosses",Normal,,Fur Coat,,
+Gogoat,It evolves from Skiddo upon reaching level 32.,123,100,62,97,81,68,5.88%,None,Grass,,Sap Sipper, Grass Pelt,
+Goodra,"It evolves from Sliggoo starting at level 50 when leveled up during rain in the overworld. It is the final form of Goomy. 
+Keep in mind that rain in the overworld is randomized.",90,100,70,110,150,80,5.88%,Mysterious Ticket,Dragon,,Sap Sipper, Hydration, Gooey
+Goomy,"It evolves into Sliggoo upon reaching level 40 and evolves into Goodra starting at level 50 when leveled up during rain in the overworld.
+Keep in mind that rain in the overworld is randomized.",45,50,35,55,75,40,5.88%,"Land, Excavation, Bosses",Dragon,,Sap Sipper, Hydration, Gooey
+Gourgeist,Having evolved from Pumpkaboo when traded.,65,90,122,58,75,84,7.84%,None,Ghost, Grass,Pickup, Frisk, Insomnia
+Greninja,"It evolves from Frogadier starting at level 36. It is the final form of Froakie.
+Battle Bond allows Greninja to change into Ash-Greninja when it knocks out an opposing Pokémon.",72,95,67,103,71,122,5.88%,None,Water, Dark,Torrent, Protean,
+Hawlucha,,78,95,75,74,63,118,22.88%,Land,Fighting, Flying,Limber, Unburden, Mold Breaker
+Heliolisk,It evolves from Helioptile when exposed to a Sun Stone.,62,55,52,109,94,109,9.8%,None,Electric, Normal,Dry Skin, Sand Veil, Solar Power
+Helioptile,It evolves into Heliolisk when exposed to a Sun Stone.,44,38,33,61,43,70,24.84%,"Land, Bosses",Electric, Normal,Dry Skin, Sand Veil, Solar Power
+Honedge,It evolves into Doublade upon reaching level 35.,45,80,100,35,37,28,23.53%,"Land, Headbutt Trees, Excavation, Bosses, Dig Spots",Steel, Ghost,No Guard,,
+Hoopa,,80,110,60,150,130,70,0.39%,None,Psychic, Ghost,Magician,,
+Inkay,It evolves into Malamar upon reaching level 30.,53,54,53,37,46,45,24.84%,"Land, Bosses, Level Up, Egg Moves, TMs and HMs, TM Tutors, Move Tutors",Dark, Psychic,Suction Cups, Contrary, Infiltrator
+Klefki,,57,80,91,80,87,75,9.8%,"Land, Headbutt Trees, Excavation, Bosses",Steel, Fairy,Prankster, Magician,
+Litleo,It evolves into Pyroar upon reaching level 35.,62,50,58,73,54,72,28.76%,Land,Fire, Normal,Rivalry, Unnerve, Moxie
+Malamar,Having it evolved from Inkay upon reaching level 30.,86,92,88,68,75,73,10.46%,None,Dark, Psychic,Suction Cups, Contrary, Infiltrator
+Meowstic,It evolves from Espurr upon reaching level 25.,74,48,76,83,81,104,9.8%,None,Psychic,,Keen Eye, Infiltrator, Prankster
+Noibat,It evolves into Noivern upon reaching level 48.,40,30,35,45,40,55,24.84%,"Land, Surfing, Excavation",Flying, Dragon,Frisk, Infiltrator, Telepathy
+Noivern,It evolves from Noibat upon reaching level 48.,85,70,80,97,80,123,5.88%,None,Flying, Dragon,Frisk, Infiltrator, Telepathy
+Pancham,"It evolves into Pangoro when leveled up, after level 32, with a Dark type Pokémon in your party.",67,82,62,46,48,43,28.76%,"Land, Bosses",Fighting,,Iron Fist, Mold Breaker, Scrappy
+Pangoro,"It evolves from Pancham upon reaching level 32 and being leveled up, once more, with a Dark type Pokémon in your party.",95,124,78,69,71,58,8.5%,None,Fighting, Dark,Iron Fist, Mold Breaker, Scrappy
+Phantump,,43,70,48,50,60,38,15.69%,"Land, Bosses",Ghost, Grass,Natural Cure, Frisk, Harvest
+Pumpkaboo,,49,66,70,44,55,51,15.69%,"Land, Bosses",Ghost, Grass,Pickup, Frisk, Insomnia
+Pyroar,It evolves from Litleo upon reaching level 35.,86,68,72,109,66,106,8.5%,None,Fire, Normal,Rivalry, Unnerve, Moxie
+Quilladin,It evolves from Chespin upon reaching level 16 and then evolves into Chesnaught upon reaching level 36.,61,78,95,56,58,57,5.88%,None,Grass,,Overgrow, Bulletproof,
+Scatterbug,It evolves into Spewpa upon reaching level 9.,38,35,40,27,25,35,33.33%,Land,Bug,,Shield Dust, Compound Eyes, Friend Guard
+Skiddo,It evolves into Gogoat upon reaching level 32.,66,65,48,62,57,52,26.14%,"Land, Bosses",Grass,,Sap Sipper, Grass Pelt,
+Skrelp,It evolves into Dragalge upon reaching level 48.,50,60,60,60,60,30,29.41%,"Surfing, Fishing, Excavation",Poison, Water,Poison Point, Poison Touch, Adaptability
+Sliggoo,"It evolves from Goomy starting at level 40 and evolves into Goodra starting at level 50 when leveled up during rain in the overworld. 
+Keep in mind that rain in the overworld is randomized.",68,75,53,83,113,60,5.88%,None,Dragon,,Sap Sipper, Hydration, Gooey
+Slurpuff,It evolves from Swirlix when traded while holding a Whipped Dream.,82,80,86,85,75,72,18.3%,Land,Fairy,,Sweet Veil, Unburden,
+Spewpa,It evolves from Scatterbug upon reaching level 7 and then evolves into Vivillon upon reaching level 10.,45,22,60,27,30,29,15.69%,None,Bug,,Shed Skin, Friend Guard,
+Spritzee,It evolves into Aromatisse when traded while holding a Sachet.,70,52,60,63,65,23,26.14%,Land,Fairy,,Healer, Aroma Veil,
+Swirlix,It evolves into Slurpuff when traded while holding a Whipped Dream.,62,48,66,59,57,49,26.14%,"Land, Bosses",Fairy,,Sweet Veil, Unburden,
+Sylveon,"Sylveon is a Fairy type Pokémon. 
+It evolves from Eevee after being leveled up on Love Island while knowing a Fairy type move.",95,65,65,110,130,60,5.88%,"Land, Bosses",Fairy,,Cute Charm, Pixilate,
+Talonflame,It evolves from Fletchinder upon reaching level 35.,78,81,71,74,69,126,5.88%,None,Fire, Flying,Flame Body, Gale Wings,
+Trevenant,Having evolved from Phantump when traded.,85,110,76,65,82,56,7.84%,None,Ghost, Grass,Natural Cure, Frisk, Harvest
+Tyrantrum,It evolves from Tyrunt upon reaching level 39 and then being leveled up during daytime.,82,121,119,69,59,71,5.88%,None,Rock, Dragon,Strong Jaw, Rock Head,
+Tyrunt,It evolves into Tyrantrum upon reaching level 39 and then leveling up during daytime.,58,89,77,45,45,48,5.88%,"Land, Bosses, Jaw Fossil",Rock, Dragon,Strong Jaw, Sturdy,
+Vivillon,It evolves from Spewpa upon reaching level 12.,80,52,50,90,50,89,5.88%,None,Bug, Flying,Shield Dust, Compound Eyes, Friend Guard
+Volcanion,,80,110,120,130,90,70,0.39%,None,Fire, Water,Water Absorb,,
+Xerneas,,126,131,95,131,98,99,5.88%,None,Fairy,,Fairy Aura,,
+Yveltal,,126,131,95,131,98,99,5.88%,None,Dark, Flying,Dark Aura,,
+Zygarde,,216,100,121,91,95,85,0.39%,None,Dragon, Ground,Aura Break, Power Construct,
+Araquanid,It evolves from Dewpider starting at level 22.,68,70,92,50,132,42,13.07%,None,Water, Bug,Water Bubble, Water Absorb,
+Bewear,Bewear is a Normal and Fighting type Pokémon. It evolves from Stufful at level 27.,120,125,80,55,60,60,9.15%,None,Normal, Fighting,Fluffy, Klutz, Unnerve
+Bounsweet,"Bounsweet is a Grass  type Pokémon. It evolves into Steenee at level 18, which then evolves into its final-stage form in Tsareena after stomp learned.",42,30,38,30,38,32,30.72%,None,Grass,,Leaf Guard, Oblivious, Sweet Veil
+Brionne,It evolves from Popplio starting at level 17 and evolves into Primarina starting at level 34.,60,69,69,91,81,50,5.88%,None,Water,,Torrent, Liquid Voice,
+Charjabug,It evolves from Grubbin starting at level 20 and evolves into Vikavolt when exposed to a Thunder Stone.,57,82,95,55,75,36,15.69%,None,Bug, Electric,Battery,,
+Crabominable,It evolves from Crabrawler when leveled up at Mount Lunakila (Evolution requirement(s) may be subject to change once released).,97,132,77,62,67,43,7.84%,None,Fighting, Ice,Hyper Cutter, Iron Fist, Anger Point
+Crabrawler,It evolves into Crabominable when leveled up at Mount Lunakila (Evolution requirement(s) may be subject to change once released).,47,82,57,42,47,63,33.33%,None,Fighting,,Hyper Cutter, Iron Fist, Anger Point
+Cutiefly,It evolves into Ribombee upon reaching level 25,40,45,40,55,40,84,24.84%,Land,Bug, Fairy,Honey Gather, Shield Dust, Sweet Veil
+Dartrix,It evolves from Rowlet starting at level 17 and evolves into Decidueye starting at level 34.,78,75,75,70,70,52,5.88%,None,Grass, Flying,Overgrow, Long Reach,
+Decidueye,It evolves from Dartrix starting at level 34. It is the final form of Rowlet.,78,107,75,100,100,70,5.88%,None,Grass, Ghost,Overgrow, Long Reach,
+Dewpider,It evolves into Araquanid starting at level 22.,38,40,52,40,72,27,26.14%,None,Water, Bug,Water Bubble, Water Absorb,
+Dhelmise,,70,131,100,86,90,40,3.27%,Land,Ghost, Grass,Steelworker,,
+Fomantis,It evolves into Lurantis when leveled up during daytime starting at level 34.,40,55,35,50,35,35,24.84%,None,Grass,,Leaf Guard, Contrary,
+Grubbin,"It evolves into Charjabug starting at level 20, which evolves into Vikavolt when exposed to a Thunder Stone.",47,62,45,55,45,46,33.33%,None,Bug,,Swarm,,
+Gumshoos,It evolves from Yungoos when leveled up during daytime starting at level 20.,88,110,60,55,60,45,16.6%,None,Normal,,Strong Jaw, Stakeout, Adaptability
+Hakamo-o,It evolves from Jangmo-o starting at level 35 and then evolves into Kommo-o upon reaching level 45.,55,75,90,65,70,65,5.88%,None,Dragon, Fighting,Bulletproof, Soundproof, Overcoat
+Incineroar,It evolves from Torracat starting at level 34. It is the final form of Litten.,95,115,90,80,90,60,5.88%,None,Fire, Dark,Blaze, Intimidate,
+Jangmo-o,It evolves into Hakamo-o upon reaching level 35.,45,55,65,45,45,45,5.88%,None,Dragon,,Bulletproof, Soundproof, Overcoat
+Komala,,65,115,65,75,95,65,5.88%,Land,Normal,,Comatose,,
+Kommo-o,It evolves from Hakamo-o starting at level 45.,75,110,125,100,105,85,5.88%,None,Dragon, Fighting,Bulletproof, Soundproof, Overcoat
+Kyurem,,125,130,90,130,90,95,0.39%,None,Dragon, Ice,Pressure,,
+Litten,"It evolves into Torracat starting at level 17, which evolves into Incineroar starting at level 34.",45,65,40,60,40,70,5.88%,None,Fire,,Blaze, Intimidate,
+Lunala,It evolves from Cosmoem starting at level 53.,137,113,89,137,107,97,5.88%,None,Psychic, Ghost,Shadow Shield,,
+Lurantis,It evolves from Fomantis when leveled up during daytime starting at level 34.,70,105,90,80,90,45,9.8%,None,Grass,,Leaf Guard, Contrary,
+Lycanroc-Midday,"It evolves from Rockruff starting at level 25. 
+If it is daytime, it will evolve into Midday form. If it is nighttime, it will evolve into Midnight form. 
+The Dusk form is now a one-time catchable on Mirage Island (spawns at the peak every time Mirage Island is visible).",75,115,65,55,65,112,11.76%,None,Rock,,Keen Eye, Sand Rush, Steadfast
+Mareanie,It evolves into Toxapex starting at level 38.,50,53,62,43,52,45,24.84%,None,Poison, Water,Merciless, Limber, Regenerator
+Mimikyu,,55,90,80,50,105,96,5.88%,Land,Ghost, Fairy,Disguise,,
+Morelull,It evolves into Shiinotic on reaching level 24.,40,35,55,65,75,15,24.84%,None,Grass, Fairy,Illuminate, Effect Spore, Rain Dish
+Mudbray,It evolves into Mudsdale starting at level 30.,70,100,70,45,55,45,24.84%,None,Ground,,Own Tempo, Stamina, Inner Focus
+Mudsdale,It evolves from Mudbray starting at level 30.,100,125,100,55,85,35,7.84%,None,Ground,,Own Tempo, Stamina, Inner Focus
+Oricorio Baile,,75,70,70,98,70,93,5.88%,None,Fire, Flying,Dancer,,
+Palossand,It evolves from Sandygast starting at level 42.,85,75,110,100,75,35,7.84%,None,Ghost, Ground,Water Compaction, Sand Veil,
+Pikipek,"It evolves into Trumbeak starting at level 14, which evolves into Toucannon starting at level 28.",35,70,30,30,30,65,33.33%,None,Normal, Flying,Keen Eye, Skill Link, Pickup
+Popplio,"It evolves into Brionne starting at level 17, which evolves into Primarina starting at level 34.",50,54,54,66,56,40,5.88%,None,Water,,Torrent, Liquid Voice,
+Primarina,It evolves from Brionne starting at level 34. It is the final form of Popplio.,80,74,74,126,116,60,5.88%,None,Water, Fairy,Torrent, Liquid Voice,
+Ribombee,It evolves from Cutiefly starting at level 25.,60,55,60,95,70,124,9.8%,None,Bug, Fairy,Honey Gather, Shield Dust, Sweet Veil
+Rockruff,"It evolves into Lycanroc upon reaching level 25. Depending on the in-game time, it can evolve into 3 different forms of Lycanroc.
+During daytime, it will evolve into Lycanroc-Midday. During nighttime, it will evolve into Lycanroc-Midnight. 
+Normally, it could also be able to evolve into Dusk form, but that is not available yet.",45,65,40,30,40,60,24.84%,None,Rock,,Keen Eye, Vital Spirit, Steadfast
+Rowlet,"It evolves into Dartrix starting at level 17, which evolves into Decidueye starting at level 34.",68,55,55,50,50,42,5.88%,None,Grass, Flying,Overgrow, Long Reach,
+Salandit,Salandit is a Poison and Fire type Pokémon. It evolves to Salazzle at level 33 should be female.,48,44,40,71,40,77,15.69%,None,Poison, Fire,Corrosion, Oblivious,
+Salazzle,Salazzle is a Poison and Fire type Pokémon. It evolves from Salazzle at level 33 should be female.,68,64,60,111,60,117,5.88%,None,Poison, Fire,Corrosion, Oblivious,
+Sandygast,It evolves into Palossand starting at level 42.,55,55,80,70,45,15,18.3%,Land,Ghost, Ground,Water Compaction, Sand Veil,
+Shiinotic,It evolves from Morelull at level 24.,60,45,80,90,100,30,9.8%,None,Grass, Fairy,Illuminate, Effect Spore, Rain Dish
+Solgaleo,Solgaleo evolves from Cosmoem starting at level 53.,137,137,107,113,89,97,5.88%,None,Psychic, Steel,Full Metal Body,,
+Steenee,"Steenee is a Grass  type Pokémon. Having evolved from Bounsweet at level 18, it evolves into Tsareena after stomp learned.",52,40,48,40,48,62,15.69%,None,Grass,,Leaf Guard, Oblivious, Sweet Veil
+Stufful,Stufful is a Normal and Fighting type Pokémon. It evolves to Bewear at level 27.,70,75,50,45,50,50,18.3%,None,Normal, Fighting,Fluffy, Klutz, Cute Charm
+Torracat,It evolves from Litten starting at level 17 and evolves into Incineroar starting at level 34.,65,85,50,80,50,90,5.88%,None,Fire,,Blaze, Intimidate,
+Toucannon,It evolves from Trumbeak starting at level 28. It is the final form of Pikipek.,80,120,75,75,75,60,5.88%,None,Normal, Flying,Keen Eye, Skill Link, Pickup
+Toxapex,It evolves from Mareanie starting at level 38.,50,63,152,53,142,35,9.8%,None,Poison, Water,Merciless, Limber, Regenerator
+Trumbeak,It evolves from Pikipek starting at level 14 and evolves into Toucannon starting at level 28.,55,85,50,40,50,75,15.69%,None,Normal, Flying,Keen Eye, Skill Link, Pickup
+Tsareena,"Tsareena is a Grass  type Pokémon. Having evolved from Steenee after stomp learned, it is the final evolutionary stage of Bounsweet.",72,120,98,50,98,72,5.88%,None,Grass,,Leaf Guard, Queenly Majesty, Sweet Veil
+Vikavolt,It evolves from Charjabug when exposed to a Thunder Stone. It is the final form of Grubbin,77,70,90,145,75,43,5.88%,None,Bug, Electric,Levitate,,
+Wishiwashi Solo,,45,20,20,25,25,40,7.84%,None,Water,,Schooling,,
+Yungoos,It evolves into Gumshoos when leveled up during daytime starting at level 20.,48,70,30,30,30,45,33.33%,None,Normal,,Strong Jaw, Stakeout, Adaptability
