@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -41,7 +43,7 @@ if __name__ == '__main__':
         abilities = ((inner_tbodies[0].find_all('p', string='Abilities')[0].findNext('tr'))).find_all('td')
 
         for ability in abilities:
-            pkm_dict.setdefault('abilities', []).append(ability.find_all('a')[0].text)
+            pkm_dict[ability.find_all('b')[0].text] = ability.find_all('a')[0].text
 
         # Base stats
         base_stats = ((inner_tbodies[0].find_all('span', string='Base stats')[0].findNext('tr'))).find_all('td')
@@ -50,6 +52,9 @@ if __name__ == '__main__':
 
         # Catch rate
         pkm_dict['catch_rate'] = re.findall(r'(?<=\().*%(?=\))', (inner_tbodies[0].find_all('span', string='Catch rate')[0].findNext('p')).text)[0]
+
+        # Rarity
+        pkm_dict['rarity'] = (inner_tbodies[0].find_all('span', string='Rarity Tier')[0].findNext('p').text).strip()
 
         # Obtainability info
         # Get table of contents div
